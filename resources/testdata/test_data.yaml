@@ -1,0 +1,661 @@
+url:
+  link:   'https://scgh-ifrs-uat.scg-wedo.tech/'
+  url_api:   'https://scgh-ifrs-uat-api.scg-wedo.tech/graphql/'
+
+notification_message:
+  file_imported: "Import request succeeded!**  Your import file for import category target set value with {id_transcript} is has been imported.  reference url: https://scgh-ifrs-uat.scg-wedo.tech/ai/set-target"
+  unexpected_noti:    "Import request failed!**  Sorry, your import file for import category {page} adjustment with {id_transaction} could not be completed, some unexpected errors occurred.{items} item is invalid. Please try again.  reference url: https://scgh-ifrs-uat.scg-wedo.tech/ai/set-forecast"
+  unexpected_noti_productrecom:  "Import request failed!**  Sorry, your import file for import {page} event with {id_transaction} could not be completed, some unexpected errors occurred.{items} item is invalid. Please try again.  reference url: https://scgh-ifrs-uat.scg-wedo.tech/ai/product-class-recommendation "
+  unexpected_noti:    "Import request failed!**  Sorry, your import file for import category {page} adjustment with {id_transaction} could not be completed, some unexpected errors occurred.{items} item is invalid. Please try again.  reference url: https://scgh-ifrs-uat.scg-wedo.tech/ai/set-forecast"
+  export_request_success:    "Export request succeeded!**  Your export file for Category Forecast with ID  {id_transcript} is readyto download."
+  start_prepared_data:    "Start preparing export data!**  We've received your request to export Category Forecast, your request ID  is{id_transcript}."
+  start_prepared_settarget:    "Start preparing export data!**  We've received your request to export Category Target, your request ID  is{id_transcript}."
+  import_request: "Import request failed!**  Sorry, your import file for import category {page} adjustment with {id_transcript} could not be completed. This file is invalid, Please tryagain. referenceurl:https://scgh-ifrs-uat.scg-wedo.tech/ai/set-forecast"
+  import_request_productmaster: Import request failed!**  Sorry, your import file for import {page} with {id_transcript} could not be completed. This file is invalid, Please tryagain.
+  import_request_settarget: Import request failed!**  Sorry, your import file for import category {page} with {id_transcript} could not be completed. This file is invalid, Please tryagain.
+  import_succeeded:  "Import request succeeded!**  Your import file for import category {page} adjustment with {id_transcript} is has been imported.  reference url: https://scgh-ifrs-uat.scg-wedo.tech/ai/set-forecast"
+  import_productrecom_succeeded:  "Import request succeeded!**  Your import file for import {page} event with {id_transcript} is has been imported.  reference url: https://scgh-ifrs-uat.scg-wedo.tech/ai/set-forecast"
+  import_productmaster_succeeded: "Import request succeeded!**  Your import file for import product replacement event with {id_transcript} is has been imported.  reference url: https://scgh-ifrs-uat.scg-wedo.tech/ai/product-master"
+  invalid_target_data: "Import request failed!**  Sorry, your import file for import category target set value with {transaction_id} could not be completed, some unexpected errors occurred.{items_invalid} item is invalid. Please try again.  reference url: https://scgh-ifrs-uat.scg-wedo.tech/ai/set-target"
+  import_succeeded_min_max:   "Import request succeeded!**  Your import file for import {page} event with {id_transcript}is has been imported.  reference url: https://scgh-ifrs-uat.scg-wedo.tech/ai/min-max-level"
+  import_succeeded_productrecom:   "Import request succeeded!**  Your import file for import {page} event with {id_transcript}is has been imported.  reference url: https://scgh-ifrs-uat.scg-wedo.tech/ai/product-class-recommendation "
+  import_draf_success:  "Import request succeeded!**  Your import file for import draft channels with {id_transcript} is hasbeen imported.  reference url: https://scgh-ifrs-uat.scg-wedo.tech/configuration/{page}"
+  import_succeeded_productmaster: Import request succeeded!**  Your import file for import {page} with {id_transcript} is has been imported.
+  occurrend_items_main_rcdc:  "Import request failed!**  Sorry, your import file for import draft channels with {id_transaction} could not be completed, some unexpected errors occurred. {items} item is invalid.Please try again.  reference url: https://scgh-ifrs-uat.scg-wedo.tech/configuration/{page}"
+  msg_start_prepared_configuration_dc: "Start preparing export data!**  We've received your request to export {page}, your request ID  is{id_transcript}."
+  msg_export_file_request_configuration_dc: "Export request succeeded!**  Your export file for {page} with {id_transcript} is ready todownload."
+  import_succeeded_product:   "Export request succeeded!**  Your export file for {page} with {id_transcript} is ready todownload.  reference url: https://scgh-ifrs-uat-web.s3.amazonaws.com/export_files"
+body_email:
+  export_request:  We've received your request to export 
+  export_file:  Your export file for
+  waiting_for_your_approval:  Hi,MerchandiseApproverforautomateMerchandiseUserforautomatehassubmittednewforecastadjustmentson{current_date}.Category(MCH2):{categories}Brand:{brand}Date:From01-01-2022,To31-12-2022Pleasenote.Iftherequestoftarget/forecastisnotapprovedwithin{day_remaining}day(s),thesystemwillperformcalculationbasedonAIRecommendation.Pleasereviewandapprovetherequestbyclick"Viewmoredetail".ViewmoredetailIfyoulinkabovedoesn'twork,Youcancopyandpastethefollowingintoyourbrowser.https://scgh-ifrs-uat.scg-wedo.tech/ai/set-forecastContactus:|©2021SCGHomeRetailAllrightsreversed.
+  superuser_approval:   Hi,Superuser1AutomateMerchandiseApproverforautomatehasapprovednewforecastadjustmentson{current_date}.Category(MCH2):{categories}Brand:{brand}Date:From01-01-2022,To31-12-2022ThenewforecastadjustmentswererequestedbyMerchandiseUserforautomateon{current_date}.Pleasenote.Iftherequestoftarget/forecastisnotapprovedwithin{day_remaining}day(s),thesystemwillperformcalculationbasedonAIRecommendation.Pleasereviewandapprovetherequestbyclick"Viewmoredetail".ViewmoredetailIfyoulinkabovedoesn'twork,Youcancopyandpastethefollowingintoyourbrowser.https://scgh-ifrs-uat.scg-wedo.tech/ai/set-forecastContactus:|©2021SCGHomeRetailAllrightsreversed.
+  approved:   Hi,MerchandiseUserforautomateThenewforecastadjustmentson{current_date}havebeenapprovedbySuperuser1Automate.Category(MCH2):{categories}Brand:{brand}Date:From01-01-2022,To31-12-2022Theapprovalprocessiscomplete.Pleaseclick"Viewmoredetail"formoredetail.ViewmoredetailIfyoulinkabovedoesn\'twork,Youcancopyandpastethefollowingintoyourbrowser.https://scgh-ifrs-uat.scg-wedo.tech/ai/set-forecastContactus:|©2021SCGHomeRetailAllrightsreversed.
+  superuser_rejected:  Hi,MerchandiseUserforautomateThenewforecastadjustmentson{current_date}havebeenrejectedbySuperuser1Automate.Category(MCH2):{categories}Brand:{brand}Date:From01-01-2022,To31-12-2022Thereasonforrejection:Pleaseclick"Viewmoredetail"formoredetail.ViewmoredetailIfyoulinkabovedoesn'twork,Youcancopyandpastethefollowingintoyourbrowser.https://scgh-ifrs-uat.scg-wedo.tech/ai/set-forecastContactus:|©2021SCGHomeRetailAllrightsreversed.
+  merchandise_rejected:  Hi,MerchandiseUserforautomateThenewforecastadjustmentson{current_date}havebeenrejectedbyMerchandiseApproverforautomate.Category(MCH2):{categories}Brand:{brand}Date:From01-01-2022,To31-12-2022Thereasonforrejection:Pleaseclick"Viewmoredetail"formoredetail.ViewmoredetailIfyoulinkabovedoesn'twork,Youcancopyandpastethefollowingintoyourbrowser.https://scgh-ifrs-uat.scg-wedo.tech/ai/set-forecastContactus:|©2021SCGHomeRetailAllrightsreversed.
+error_message:
+  value_invalid:   The input format is invalid, please input numbers with 2 decimal places and the value must be greater or equal to zero.
+  configuration_invalid_reason: "Inventory Target (Value): Please input numbers with 2 decimal places and the value must be greater or equal to zero, Lead Time (Day): Please input numbers without decimals and the value must be greater or equal to zero"
+  main_max_numeric_error:   Min Level (QTY) please input numeric without decimal and the value must be greater or equal to zero.
+  both_min_max_numeric_error:   Min Level (QTY) please input numeric without decimal and the value must be greater or equal to zero., Max Level (QTY) please input numeric without decimal and the value must be greater or equal to zero.
+  replacement_start_date_error: Replacement Start date or Replacement End date is invalid format. Please input the date in format "DD/MM/YYYY"
+  invalid_reason_2_decimal:  "Inventory Target (Value): Please input numbers with 2 decimal places and the value must be greater or equal to zero"
+
+page:
+  forecast:  forecast
+  settarget: settarget
+  product_min_max:  'product min max'
+  productrecom: 'product class'
+  productmaster: product replacement event
+  settargets: target set value
+  main: main
+  channels: Channels
+  product_master_download :  Product Master
+
+folder_email:
+  sp_approved: Superuser_approved
+  super_approved:  superuser_approve
+  Merchandise_submit:  Merchandise_submit
+  merchandise_reject: merchandise_reject
+  productmaster: productmaster_page
+  settarget: settarget_folder
+  staff_notification:   Staff_notification
+
+reg_ex_page:
+  forecast: '(Import?.*forecast.*?)'
+  tryagain: '(Import?.*tryagain.*?.)'
+  min_max_level: '(Import?.*level.*?)'
+  settarget: '(Import?.*set-target.*?.)'
+  productmaster: '(Import?.*master.*?.)'
+  productrecom: '(Import?.*recommendation.*?.)'
+  export_msg: '(Export?.*download.*?.)'
+  start_msg:  '(Start?.*ID.*?.[a-zA-Z0-9]{1,23}.)'
+  import_request_forecast:  '(I+?.*set-forecast.*?)'
+  import_draf_success:  '(Import?.*configuration/main.*?)'
+  import_productmaster:  '(Export?.*export_files.*?)'
+
+folder_name:
+  csv_data: csv_data
+  others: others
+  RDC_data: RDC_data
+  productmaster: productmaster_file
+
+color:
+  grey_color: rgba(243, 245, 247, 1)
+  orange_color: rgba(255, 245, 230, 1)
+  blue_color: rgba(0, 125, 255, 0.06)
+  red_color:  rgba(254, 237, 235, 1)
+
+file_extension:
+  csv: csv
+  xls: xls
+  xlsx: xlsx
+  txt: txt
+  doc: doc
+  jpg: jpg
+  pdf: pdf
+
+account:
+  sender_email:  
+    acc_01: admin-scgh-retail-dev@scg-wedo.tech
+  superuser:
+    acc_01:
+      username:   'scgh.superuser@gmail.com'
+      password:   'Pas@12345'
+    acc_02:
+      username:  auto.superuser1@gmail.com
+      password:  Pas@1234
+    acc_03:
+      username:  'auto.superuser2@gmail.com'
+      password: 'Pas@1234'
+  saleuser:
+    acc_01:
+      username: scgh.saleuser@gmail.com
+      password: Pas@12345
+    acc_02:
+      username: auto.saleuser1@gmail.com
+      password: Pas@1234
+    acc_03:
+      username: auto.saleuser2@gmail.com
+      password: Pas@1234
+  sale_approver:
+    acc_01:
+      username: auto.saleapprover1@gmail.com
+      password: Pas@1234
+    acc_02:
+      username: auto.saleapprover2@gmail.com
+      password: Pas@1234
+  meruser:
+    acc_01:
+      username: Scgh.meruser@gmail.com
+      password: Pas@12345
+    acc_02:
+      username: auto.meruser01@gmail.com
+      password: Pas@1234
+  mer_approve:
+    acc_01:
+      username:  auto.merapprover1@gmail.com 
+      password:  Pas@1234
+
+menu_name:
+  ai_page:
+    menu_settarget:       SET TARGET
+    menu_display_target:  DISPLAY TARGET
+    menu_product_master:  PRODUCT MASTER
+    menu_forcast:         FORECAST
+    menu_dashboard:       Dashboard
+    menu_product_class_criteria:  PRODUCT CLASS CRITERIA
+    menu_product_class_recom:     PRODUCT CLASS RECOMMENDATION
+    menu_min_max:                 MIN & MAX LEVEL
+
+MCH1_category:
+  sink_counter_k301:  
+    search: ซิงค์ฝังเคาน์เตอร์
+    categories_code: 'ซิงค์ฝังเคาน์เตอร์ (K301)'
+  sink_k302:
+    search: ซิงค์ขาตั้ง
+    categories_code: 'ซิงค์ขาตั้ง (K302)'
+  electrical_k1202:
+    search: เตาไฟฟ้า
+    categories_code: 'เตาไฟฟ้า (K1202)'
+  handle: 
+    search: มือจับประตู
+    categories_code:  'มือจับประตู (D301)'
+
+MCH2_category:
+  all_category:   All Categories
+  electrical:   เครื่องใช้ไฟฟ้าหมวดเตา
+  Handle_knob:    มือจับ/ลูกบิด
+  sink_equipment: ซิงค์และอุปกรณ์
+
+  
+Brand_name:
+  AXIA:  AXIA
+  DDK:  DDK
+  LIDO: LIDO
+  HAFELE: HAFELE
+
+MCH3_category:
+  all_category:   All Categories
+  paint:          สีและอุปกรณ์
+  supply:         วัสดุก่อสร้าง
+  restroom:       ห้องน้ำ    
+  hardware:       ฮาร์ดแวร์
+  kitchen:        ห้องครัว
+  
+class_level:
+    rdc: By RDC
+    dc: By DC
+    franchise:  By Franchise
+
+RDC_category:
+  all_category: All RDC
+  restroom:       ห้องน้ำ
+  hardware:       ฮาร์ดแวร์
+  kitchen:        ห้องครัว
+
+DC_category:
+  all_category: All DC
+
+Article_name:
+  electric_stove: เตาไฟฟ้า
+
+franchise_store:
+  all_store:   All Franchise Store
+  scgh_roiEt: SCGH ร้อยเอ็ด
+  scgh_roiE_8120: SCGH ร้อยเอ็ด (8120)
+
+button_name:
+  btn_apply:  Apply
+  btn_reset:  Reset
+  btn_edit:   Edit
+  btn_discard: Discard
+  btn_cancel:  Cancel
+  btn_save:  Save
+  btn_reject:  Reject
+  btn_import_file:  Import File (CSV)
+  btn_approve:  Approve
+  btn_save_and_submit:  Save and Submit
+  btn_save_and_approve:  Save and Approve
+button_msg:
+  btn_discard_ask: Are you sure you want to discard? All the information will be permanently deleted
+  btn_discard_done: Successfully Canceled!
+  btn_save_ask: Do you want to save changes to this information?
+  btn_save_submit_ask: Do you want to save changes and Submit this information to Approver?
+  btn_save_submit_done:  "Successfully Saved and Submitted!"
+  btn_save_done: Successfully Saved!
+  btn_reject_ask: Do you want to reject target information ?
+  btn_reject_done: Successfully Rejected!
+  btn_approve_ask: Do you want to approve target information ?
+  btn_approve_done: Successfully Approved!
+
+forecast_01:
+  username: Scgh.meruser@gmail.com
+  password: Pas@12345
+  categories: ซิงค์และอุปกรณ์
+  csv_file: forecast
+  csv_value: Forecast
+  js_file:  get_forcast
+  category_search_kw:
+    sink:           ซิงค์ขาตั้ง
+    sink_counter:   ซิงค์ฝังเคาน์เตอร์
+  information:
+    code: K301
+    brand: DIAMOND
+    price: '80,000.00'
+  data_csv:
+    index_file_csv:
+      - 8
+      - 11
+      - 12
+      - 13
+    column_name:  Column12
+Qtm_808:
+  file_name:    invalide_file_forecast
+  file_extension:  xlsx
+  page: forecast
+  
+
+  invalid_templete:  forecast_incorrect_tem
+
+Qtm_805:
+  file_name:    QTM-805
+  items_invalid:  '2'
+  js_file:  get_table_failed
+  new_file_name:  QTM-805-checker-file
+
+
+productrecom_01:
+  article_number:   '0333'
+  csv_file: productrecom
+  others: 
+    xls: productrecom
+    txt:  productrecom
+    pdf:  productrecom
+    doc:  productrecom
+    jpg:  productrecom
+    csv:  productrecom1
+    franchiseinvalid:  franchiseinvalid
+    franchisefile: franchisefile
+    dc: dc_productrecom
+    dcfile: dcfile
+    rdc: rdc_productrecom
+    rdcfile: rdcfile
+    rdcinvalid: rdcinvalid
+    dcinvalid: dcinvalid
+
+QTM_1119:
+  article_num: '119444'
+
+QTM_1120:
+  article_num: '110'
+
+QTM_1121:
+  article_num: '11963'
+
+QTM_1074:
+  article_num: '1097576'
+  iteminvalid: "1"
+  csv_file:
+    export_file: QTM-1074-checker-file
+    reimport_file:  QTM-1074-Reimport
+  column_name:  
+  - Product Class (Recommendation) *
+  new_value:
+  - A
+  item: '1'
+  dc:   dc_productrecom
+  rdc:  rdc_productrecom
+
+QTM_1075:
+  article_num: '10'
+
+QTM_1076:
+  article_num: '8713'
+  xls: MIN MAX NEW FILTER 550
+  txt:  Test Invalid file
+  pdf:  test
+  doc:  test
+  jpg:  test
+  csv:  rdc
+
+QTM_1080:
+  article_num: '1081'
+
+QTM_1079:
+  article_num: '8713'
+  iteminvalid: "1"
+  csv_file:
+    export_file: QTM-1079-checker-file
+    reimport_file:  QTM-1079-Reimport
+  column_name:  
+  - Product Class (Recommendation) *
+  new_value:
+  - B
+  item: '1'
+
+QTM_1084:
+  article_num: '4222'
+  iteminvalid: "1"
+  csv_file:
+    export_file: QTM-1084-checker-file
+    reimport_file:  QTM-1084-Reimport
+  column_name:  
+  - Product Class (Recommendation) *
+  new_value:
+  - A
+  item: '1'
+
+productmaster_case1:
+  csv_file: product_master_data
+  article_number: '1016936'
+  new_product_replace: '1194437'
+productmaster_case3:
+  article_number: '1017675'
+  no_product_replace: '-'
+productmaster_case4:
+  article_number: '1097576'
+ 
+Qtm_809:
+  items:  '1'
+  list: 12
+  csv_file:
+    move_file: QTM-809-checker-file
+    csv_file: QTM-809
+  information:
+    code: K301
+    brand: DIAMOND
+
+Qtm_811:
+  items:    '4'
+  csv_data:
+    import_file: QTM-811
+    export_file:  QTM-811-checker-file
+
+Qtm_812:
+  column_name:  
+  - "Jun 2022 Value *"
+  - "Jul 2022 Value *"
+  new_value:
+  - 5000
+  - 80000
+  csv_file: 
+    import_file: QTM-812
+    export_file: QTM-812-checker-file
+    reimport_file:  QTM-812-Reimport
+  item: '1'
+  
+Qtm_813:
+  code: K1202
+  csv_file:  QTM-813
+  column: Column15
+
+Qtm_814:
+  csv_file:  
+    - QTM-814
+    - QTM-814-02
+  code: D301
+
+QTM_1053_01:
+  file_name: QTM-1053-excel-file
+QTM_1053_02:
+  file_name: QTM-1053-text-file
+QTM_1053_03:
+  file_name: QTM-1053-invalid-template
+
+
+settarget:
+  categories_name: 
+    - All Categories
+    - สีและอุปกรณ์
+    - ห้องน้ำ
+    - ฮาร์ดแวร์
+    - ห้องครัว
+  csv_file: 
+    QTM-1051: QTM-1051
+    QTM-1052: QTM-1052
+    QTM-1054: QTM-1054
+    QTM-1056-valid: QTM-1056-valid
+    QTM-1056-invalid: QTM-1056-invalid
+    QTM-1057: QTM-1057
+    QTM-1058: QTM-1058
+  sale_target:
+    jan: 80,002.00
+    feb: 80,003.89
+    mar: 0.30 MB
+  csv_1052:
+    row: 10
+    col: 6
+    total: 15
+    target_year:  2023
+    target_month: 4
+  csv_1056:
+    row: 9   
+    col: 3
+    target_year:  2023
+    target_month: 1
+  csv_1057:
+    row: 11   
+    col: 7
+    target_year:  2023
+    target_month: 5
+  csv_1058:
+    row: 11   
+    col: 6
+    target_year:  2023
+    target_month: 4
+
+QTM_1052:
+  folder_email:    settarget_folder
+  page: settarget
+
+QTM_815:
+  csv_file:  QTM-815
+  code: D301
+
+QTM_1054:
+  folder_email:    settarget_folder
+  page: settarget
+  item: '2'
+
+QTM_1056:
+  folder_email:    settarget_folder
+  page: settarget
+  item: '1'
+  new_file_name:  QTM-1056-checker-file
+QTM_1058:
+  folder_email:    settarget_folder
+  page: settarget
+QTM_1057:
+  folder_email:    settarget_folder
+  page: settarget
+
+
+QTM_1101:
+  article_number:   '3333'
+  csv_file:   min_max_level_data_QTM-1101
+
+QTM_1060_01:
+  file_name: productmaster
+  
+QTM_1060_02:
+  file_name: productmaster
+
+QTM_1105:
+  article_number:   '1110453'
+  min_max_page:   'min max'
+  store:
+    - '8090'
+    - SCGH บุรีรัมย์-นางรอง
+    - 1,000
+  csv_file:
+    import_file:  'QTM-1105'
+    export_file:  'QTM-1105-checker-file'
+    reimport_file:  'QTM-1105-Reimport'
+  column_name:  
+  - "Min Level (QTY) *"
+  new_value:
+  - 1000
+
+QTM_1111:
+  article_number:   '778'
+  min_max_page:   'min max'
+  rdc:
+    - '8020011'
+    - '77856'
+    - 1,000
+  csv_file:
+    import_file:  'QTM-1111'
+    export_file:  'QTM-1111-checker-file'
+    reimport_file:  'QTM-1111-Reimport'
+  column_name:  
+  - "Min Level (QTY) *"
+  - "Max Level (QTY) *"
+  new_value:
+  - 1000
+  - 3000
+
+QTM_1805:
+  csv_file: QTM-1085
+  store_name: 
+    korat_test: SCGH Korat RDC test 111
+    empty_store: "-"
+    korat_store: SCGH RDC โคราช
+  time_lead: 
+    - "6"
+    - "10"
+  price_value:
+    - "80000.888"
+    - "80000"
+    - "100000"
+  page: main
+
+QTM_1066:
+  article_number: '1002978'
+  file_name: productmaster_QTM_1066
+  new_product_replace: '1002975'
+
+QTM_1069:
+  article_number: '100294'
+  csv_file: QTM-1069
+
+
+QTM_1090:
+  csv_file: QTM-1090
+  csv_reimport: QTM-1090-reimport
+  item: "1"
+  column_name:
+    - "FC Inventory Target (Value) *"
+    - "FC Lead Time (Day) *"
+  value_update: "20000"
+  time_lead: "10"
+
+QTM_1091:
+  csv_file: QTM-1091
+  value_intable: 
+    - "700000"
+    - "80000.888"
+    - "100000"
+  store_name:
+    - "SCGH Korat test01"
+    - "SCGH RDC โคราช"
+    - "SCGH-TEST-RDC"
+  time_lead:
+    - "5"
+    - "4"
+    - "10"
+QTM_1117:
+  article_number:   '10366'
+  csv_file:
+    import_file:  'QTM-1117'
+    export_file:  'QTM-1117-checker-file'
+    reimport_file:  'QTM-1117-Reimport'
+  column_name:  
+  - "Min Level (QTY) *"
+  - "Max Level (QTY) *"
+  new_value:
+  - 1000
+  - 3000
+  store:
+    - '8910'
+    - '1036623'
+    - 1,000
+
+QTM_1107:
+  article_name:   'ไฟช่อ'
+  csv_file:   'QTM-1107'
+
+QTM_1113:
+  article_number:   '1206'
+  csv_file:   'QTM-1113'
+  store_1:
+    - '8910'
+    - '1206392'
+    - '1.00'
+  store_2:
+    - '8910'
+    - '1206392'
+    - '2.00'
+    
+QTM_1068:
+  article_number:   '100293'
+  csv_file:
+    import_file:  'QTM-1068'
+    export_file:  'QTM-1068-checker-file'
+    reimport_file:  'QTM-1068-Reimport'
+
+QTM_1095:
+  csv_file: QTM-1095
+  csv_reimport: QTM-1095-reimport
+  item_invalid: '1'
+  column_update: RDC Inventory Target (Value) *
+  new_value:  '55555'
+
+QTM_1906:
+  csv_file: QTM-1096
+  price_value:
+    - "70000"
+    - "100000"
+    - "80000.888"
+  time_lead: "5"
+  store_name:
+    - "DC Korat 01"
+    - "DC TEST 2"
+    - "SCGH-TEST-DC"
+QTM_1106:
+  article_number:   '8800'
+  csv_file:   'QTM-1106'
+  store:
+  - '8910'
+  - '8020012'
+  - '200'
+
+QTM_1112:
+  article_number:   '80'
+  csv_file:   'QTM-1112'
+  store:
+  - '3000-C1'
+  - '8020011'
+  - '200'
+
+QTM_1118:
+  article_number:   '11527'
+  csv_file:   'QTM-1118'
+  store_1:
+  - '8910'
+  - '1152772'
+  - '200'
+  store_2:
+  - '8910'
+  - '1152772'
+  - '300'
+
+QTM_1100:
+  csv_file:  QTM-1100
+  item_invalid: "1"
+  csv_reimport: QTM-1100-reimport
+  column_name:  
+    - DC Inventory Target (Value) *
+    - DC Lead Time (Day) *
+  time_lead: "5"
+  new_value: "12312"

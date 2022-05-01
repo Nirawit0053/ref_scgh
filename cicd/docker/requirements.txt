@@ -1,0 +1,21 @@
+robotframework==4.1
+RESTinstance==1.2.0
+robotframework-appiumlibrary==1.6.3
+robotframework-debuglibrary==2.2.1
+robotframework-jsonlibrary==0.3.1
+robotframework-requests==0.9.1
+robotframework-seleniumlibrary==5.1.3
+robotframework-seleniumtestability==1.1.0
+jsonpath2==0.4.4
+robotframework-pabot==1.13
+robotframework-imaplibrary2==0.4.0
+html2text==2020.1.16
+PyYAML==5.4.1
+DateTime==4.3
+robotframework-datadriver==1.5.0
+robotframework-mongodb-library
+robotframework-selenium-mouseextensions==0.1
+pymongo==3.0.3
+robotframework-csvlibrary==0.0.5
+robotframework-debuglibrary
+#If add Library else add first pymongo

@@ -1,0 +1,25 @@
+﻿Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,Column9,Column10,Column11,Column12,Column13,Column14,Column15,Column16,Column17,Column18,Column19,Column20,Column21
+Product Min Max,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+Article SKU: 11527,,,,,,,,,,,,,,,,,,,,
+Categories: All,,,,,,,,,,,,,,,,,,,,
+Brands: All,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+Product Min Max Level:,DC,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+* Can adjust only value column *,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+DC Code,DC Name,Article Number,Article Name,Article Vendor Name,Selling Unit,Item Flag,Batch Management,MOQ (QTY),Ordering Lead Time (Day),SCGH Item Status,SCGH DC Item Flag,DC Stock,Show & Stock (By Branch),PO Type,Previous Product Class,Product Class,Previous Min Level (QTY),Min Level (QTY) *,Previous Max Level (QTY),Max Level (QTY) *
+8910,DC Korat,115272,HWมือจับกลึงWP-90804-2ABP2ทองเหลือง/รมดำ,,SET,Standard,Yes,0,0,Ready,,,N,,C,C,2,200,100,300
+8910,DC Korat,115273,HW มือจับกลึง WP-90804-2ACP2 ทองแดง/รมดำ,,SET,Standard,Yes,0,0,Ready,,,N,,B,B,4,200,100,300
+8910,DC Korat,1152752,ฉากCUSTOMER SHIELD เทอร์ราซโซ 60x80 CM,,EA,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,A,C,1,200,100,300
+8910,DC Korat,1152756,ฉากCUSTOMER SHIELD คาราร่า 60x80 CM.,,EA,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,C,C,2,200,100,300
+8910,DC Korat,1152758,AMBI PUR คาร์ วานิลลาบูเก้ 7.5 มล,,EA,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,A,A,,200,100,300
+8910,DC Korat,1152761,เซฟการ์ด สบู่เหลวล้างมือ ขวด 225มล,,EA,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,B,C,2,200,100,300
+8910,DC Korat,1152767,AMBI PUR คาร์ ซิตรัสซันไลท์ 7.5 มล,,EA,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,B,C,2,200,100,300
+8910,DC Korat,1152768,AMBI PUR คาร์ เมาเทนบรีซ 7.5 มล,,EA,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,B,C,1,200,100,300
+8910,DC Korat,1152769,AMBI PUR คาร์ ซีดาร์วูด&มิ้นท์ 7.5 มล,,EA,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,A,C,,200,100,300
+8910,DC Korat,1152772,หม้อทอดไร้น้ำมัน รุ่น MV-004/2 ลิตร/ดำ,,U12,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,A,C,1,200,100,300
+8910,DC Korat,1152774,AMBI PUR คาร์ แพชชั่นพาราไดซ์ 7.5มล,,EA,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,C,C,1,200,100,300
+8910,DC Korat,1152775,เซฟการ์ด สบู่เหลวล้างมือ225มล+ถุงเติม200,,EA,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,C,C,1,200,100,300
+8910,DC Korat,1152780,เตาปิ้งย่างพร้อมหม้อสุกี้ SM-EG1802,,U12,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,A,A,,200,100,300

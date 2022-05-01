@@ -1,0 +1,44 @@
+﻿Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8
+Channel,,,,,,,
+,,,,,,,
+* Can adjust only value column *,,,,,,,
+,,,,,,,
+DC Code *,DC Name *,RDC Code *,RDC Name *,FC Store Code *,FC Store Name *,FC Inventory Target (Value) *,FC Lead Time (Day) *
+8910,DC Korat 01,,,8020,SCGH โคราช,50000000.00,8
+8910,DC Korat 01,8020012,SCGH Korat RDC test 111,8010,SCGH กระบี่,4000000.00,3
+,,8020013,SCGH RDC โคราช,8030,SCGH ลพบุรี,7000000.00,8
+8910,DC Korat 01,,,8040,SCGH ขอนเเก่น-ชุมแพ,20000000.0,2
+,,,,8050,SCGH นครศรีธรรมราช,20000000.0,7
+,,,,8060,SCGH เชียงราย,50000000.0,7
+,,,,8070,SCGH นครสวรรค์,50000000.0,3
+3000-C1,DC TEST 2,8020011,SCGH Korat test01,8080,SCGH 3K หาดใหญ่,50000000.00,7
+8910,DC Korat 01,,,8090,SCGH บุรีรัมย์-นางรอง,20000000.0,2
+8910,DC Korat 01,,,8100,SCGH อุบลฯ-วารินชำราบ,50000000.0,2
+,,,,8110,SCGH ประจวบ-ร่อนทองชัย,15000000.0,5
+8910,DC Korat 01,,,8120,SCGH ร้อยเอ็ด,15000000.0,2
+,,,,8130,SCGH นครศรีฯ ท่าศาลา,20000000.0,7
+8910,DC Korat 01,,,8140,SCGH อุบลฯ-กิจเจริญ โฮม,10000000.0,2
+8910,DC Korat 01,,,8150,SCGH สกลนคร-สว่างแดนดิน,10000000.0,2
+,,,,8160,SCGH แสงอุปกรณ์ รีเทล,15000000.0,7
+8910,DC Korat 01,,,8170,SCGH คูย่งฮวด อุดรธานี,15000000.0,2
+,,,,8180,SCGH ฮาร์ดแวร์เฮาส์ ศรีราชา,10000000.0,3
+,,,,8190,SCGH ทรีเค โฮมเบส,50000000.0,2
+,,,,8200,SCGH โคราช-หัวทะเล,15000000.0,3
+8910,DC Korat 01,,,8210,SCGH เอกภัณฑ์อรัญโฮม,80000.8,1
+8910,DC Korat 01,,,8220,SCGH กิจเจริญสะเดา,80000.88,3
+,,,,8230,SCGH บ้านช้าง-ชลบุรี,80000.89,2
+,,,,8240,SCGH สหะชัย-นครนายก,100000.0,3
+,,,,8250,SCGHโฮมมาสเตอร์อำนาจ,1000000.0,3
+8910,DC Korat 01,,,8270,SCGH พัทลุง-ชีย้งเฮง,80000.00,10
+,,,,8000,SCGH-TEST-FC,100000.120,8
+8910,DC Korat 01,8020012,SCGH Korat RDC test 111,8280,SCGH 8280,30000000.000,7
+8910,DC Korat 01,8020012,SCGH Korat RDC test 111,8290,SCGH แม็กซ์โฮมขอนแก่น,100000.00,1
+8910,DC Korat 01,,,1000-C2,FC TEST with DC,AAA,5.5
+8910,DC Korat 01,8020012,SCGH Korat RDC test 111,1000-C3,FC TEST with RDC,80000.88,5
+8910,DC Korat 01,8020012,SCGH Korat RDC test 111,1000-C4,FC TEST with DC and RDC,80000.00,5
+8910,DC Korat 01,,,9999,Test change name FC01,100.00,1
+,,,,5000-TC01,TEST NEW FC 01,700000.00,5
+3000-C2,DC TEST 02,,,5000-TC02,TEST NEW FC 02,700000.00,5
+,,2000-C5,RDC TEST with DC 03,5000-TC03,TEST NEW FC 03,700000.00,5
+3000-C1,DC TEST 2,8020011,SCGH Korat test01,5000-TC04,TEST NEW FC 04,700000.00,5
+,,,,21042022,Demo_Automate,700000.00,5

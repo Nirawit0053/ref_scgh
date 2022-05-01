@@ -1,0 +1,18 @@
+﻿Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,Column9,Column10,Column11,Column12,Column13,Column14,Column15,Column16,Column17,Column18,Column19,Column20,Column21,Column22,Column23,Column24
+Product master,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+* Can adjust only value column *,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+DC Code,DC Name,RDC Code,RDC Name,FC Store Code,FC Store Name,Article Number,Article Name,Article Vendor Name,Selling Unit,Item Flag,Batch Management,MOQ (QTY),Ordering Lead Time (Day),SCGH Item Status,SCGH DC Item Flag,DC Stock,Show & Stock (By Branch),Product Replacement *,Replacement Start Date *,Replacement End Date *,Product Class,Min Level (QTY),Max Level (QTY)
+"=""3000-C1""",DC TEST 2,"=""8020011""",SCGH Korat test01,8080,SCGH 3K หาดใหญ่,1002941,บานพับ 926.34.180,,PC,Standard,Yes,,,Inactive,,,Y,1100294,1/4/2022,21/12/2022,,,
+"=""3000-C1""",DC TEST 2,"=""8020011""",SCGH Korat test01,8080,SCGH 3K หาดใหญ่,1002947,มือจับหลอก 489.94.325 *ทองแดง/รมดำ,,EA,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,1100294,1/4/2022,21/12/2022,,,
+"=""3000-C1""",DC TEST 2,"=""8020011""",SCGH Korat test01,8080,SCGH 3K หาดใหญ่,1002942,ศิลาปลั่ง อิฐ 12X12 A,,PC,Standard,Yes,,,Inactive,,,Y,1100294,1/4/2022,21/12/2022,,,
+"=""3000-C1""",DC TEST 2,"=""8020011""",SCGH Korat test01,8080,SCGH 3K หาดใหญ่,1002940,แบมบู เฟรช 25X40 *A,,PC,Standard,Yes,,,Inactive,,,Y,1100294,1/4/2022,21/12/2022,,,
+"=""3000-C1""",DC TEST 2,"=""8020011""",SCGH Korat test01,8080,SCGH 3K หาดใหญ่,1002943,สีน้ำภายใน 4SS A-4003 PINE FROST#5GL,,DR,Standard,Yes,,,Inactive,,,Y,1100294,1/4/2022,21/12/2022,,,
+"=""3000-C1""",DC TEST 2,"=""8020011""",SCGH Korat test01,8080,SCGH 3K หาดใหญ่,1002944,สีน้ำภายใน 4SS A-1004 ALMOST PINK#5GL,,DR,Standard,Yes,,,Inactive,,,Y,,,,,,
+"=""3000-C1""",DC TEST 2,"=""8020011""",SCGH Korat test01,8080,SCGH 3K หาดใหญ่,1002945,สีน้ำภายใน 4SS A-6007 WOODWIND#5GL,,DR,Standard,Yes,,,Inactive,,,Y,,,,,,
+"=""3000-C1""",DC TEST 2,"=""8020011""",SCGH Korat test01,8080,SCGH 3K หาดใหญ่,1002946,สีน้ำภายใน 4SS A-1012 DEVONSHIRE#5GL,,DR,Standard,Yes,,,Inactive,,,Y,,,,,,
+"=""3000-C1""",DC TEST 2,"=""8020011""",SCGH Korat test01,8080,SCGH 3K หาดใหญ่,100294,สีอะครีลิคภายนอก BEGER COOL D 1GL,,GLL,Standard,Yes,,,Discon,,,Y,,,,,,
+"=""3000-C1""",DC TEST 2,"=""8020011""",SCGH Korat test01,8080,SCGH 3K หาดใหญ่,1002948,ชุดรางไฟ+หัวจ่าย 2M/WH,,SET,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,,,,,
+"=""3000-C1""",DC TEST 2,"=""8020011""",SCGH Korat test01,8080,SCGH 3K หาดใหญ่,1002949,ชุดรางไฟ+หัวจ่าย 2M/BK,,SET,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,,,,,
+,,"=""8020013""",SCGH RDC โคราช,8030,SCGH ลพบุรี,1100294,พัดลมโคมไฟL&E#BALI-AC ORB/OAK/LED 3 STEP,,EA,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,,,,,

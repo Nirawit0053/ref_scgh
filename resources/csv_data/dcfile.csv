@@ -1,0 +1,17 @@
+﻿Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,Column9,Column10,Column11,Column12,Column13,Column14,Column15
+Product Class Recommendation,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+* Can adjust only value column *,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+DC Code,DC Name,Article Number,Article Name,Article Vendor Name,Selling Unit,Item Flag,SCGH Item Status,SCGH DC Item Flag,DC Stock,Show & Stock (By Branch),Product Class (Previous Version),Product Class (QTY),Product Class (Value),Product Class (Recommendation) *
+8910,DC Korat 01,1196349,บานซิงค์ถังแก็สเพิรล์เดี่ยว สีฟรอซ์,,SET,Standard,Ready,,DC FLOW THROUGH,N,C,C,C,B
+8910,DC Korat 01,1196355,ตู้ลิ้นชักPLATINUM3ชั้นลูกฟักสีฟรอซ์, ,SET,Standard,Ready,,DC FLOW THROUGH,N,C,B,B,B
+8910,DC Korat 01,1196368,บานซิงค์PLATINUM เพิร์ล-คู่ สีฟรอซ์, ,SET,Standard,Ready,,DC FLOW THROUGH,N,B,B,B,B
+8910,DC Korat 01,1196369,บานซิงค์PLATINUMเพิร์ล-เดี่ยว สีฟรอซ์, ,SET,Standard,Ready,,DC FLOW THROUGH,N,B,C,C,B
+8910,DC Korat 01,1196394,คาลาคัตตา โอโร่(POL)(EXC) R/T GP 60X60*A,,PC,Standard,Ready,,,N,B,C,C,B
+8910,DC Korat 01,1196398,ซุปเปอร์สแตท ขาว(POL)(EXC)R/T GP60X60 *A,,PC,Standard,Ready,,,N,A,B,B,B
+8910,DC Korat 01,1196391,อัลตัลยา เทาอ่อน(POL)(EXC)R/T GP60X60 *A,,PC,Standard,Ready,,,N,B,C,C,B
+8910,DC Korat 01,1196392,เบอลิน เทา (POL)(EXC) R/T GP 60X60 *A,,PC,Standard,Ready,,,N,C,B,A,B
+8910,DC Korat 01,1196397,อิตาเลีย ครีมมา(POL)(EXC) R/T GP60X60*A,Z21B1D55AITAL601,PC,Standard,Ready,,,N,C,B,B,B
+8910,DC Korat 01,1196399,ทรีน่า เทา (POL)(EXC) R/T GP 60X60  *A,Z21B1D55ATRIN801,PC,Standard,Ready,,,N,C,B,B,B
+8910,DC Korat 01,1196300,JV ฝารองนั่งเด็กเสริมฟองน้ำ TS26-17 WSP, ,EA,Standard,Ready,,DC FLOW THROUGH,N,B,C,C,A

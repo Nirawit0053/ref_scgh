@@ -1,0 +1,7 @@
+﻿Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,Column9,Column10,Column11,Column12,Column13,Column14,Column15,Column16,Column17
+Product Class Recommendation,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+* Can adjust only value column *,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+DC Code,DC Name,RDC Code,RDC Name,Article Number,Article Name,Article Vendor Name,Selling Unit,Item Flag,SCGH Item Status,SCGH DC Item Flag,DC Stock,Show & Stock (By Branch),Product Class (Previous Version),Product Class (QTY),Product Class (Value),Product Class (Recommendation) *
+3000-C1,DC TEST 2,8020011,SCGH Korat test01,1101669,"โคมติดผนัWSF20-092/WH/E27x1,LED3W/WW,USB",,EA,Standard,Ready,,,Y,C,C,C,B

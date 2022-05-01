@@ -1,0 +1,19 @@
+﻿Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,Column9,Column10,Column11,Column12,Column13,Column14,Column15,Column16,Column17,Column18,Column19,Column20,Column21
+Product Min Max,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+Article SKU: 10366,,,,,,,,,,,,,,,,,,,,
+Categories: All,,,,,,,,,,,,,,,,,,,,
+Brands: All,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+Product Min Max Level:,DC,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+* Can adjust only value column *,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+DC Code,DC Name,Article Number,Article Name,Article Vendor Name,Selling Unit,Item Flag,Batch Management,MOQ (QTY),Ordering Lead Time (Day),SCGH Item Status,SCGH DC Item Flag,DC Stock,Show & Stock (By Branch),PO Type,Previous Product Class,Product Class,Previous Min Level (QTY),Min Level (QTY) *,Previous Max Level (QTY),Max Level (QTY) *
+8910,DC Korat,1036623,เตาแก๊สตั้งโต๊ะG7139 Turbo,,U02,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,C,C,1,AAAA,3,AAAA
+8910,DC Korat,1036628,ซิงค์แบบขาตั้ง1หลุมรุ่น TT100,,U02,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,C,B,2,1000,2,3000
+8910,DC Korat,1036634,เตาฝังขนาด75ซม.HB N204,,U02,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,C,C,1,1,3,2
+8910,DC Korat,1036647,TT-101AS ราวแขวนผ้า60cm.รุ่นเต่า สแตนเลส,,EA,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,C,C,1,2,2,2
+8910,DC Korat,1036648,TT-102AS ขอแขวนผ้ารุ่นเต่า สแตนเลส,,EA,Standard,Yes,0,0,Ready,,DC STOCK,N,,A,C,5,1,6,1
+8910,DC Korat,1036658,FD003 ตะแกรงดักกลิ่น 3 นิ้ว แสตนเลส,,EA,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,C,A,29,52,37,67
+8910,DC Korat,1036668,หน้ากากกันแมลง TNP AHD200SC,,U20,Standard,Yes,0,0,Ready,,DC STOCK,N,,C,A,2,3,6,4

@@ -1,0 +1,59 @@
+﻿Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,Column9,Column10,Column11,Column12,Column13,Column14,Column15,Column16,Column17
+Product Class Recommendation,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+* Can adjust only value column *,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+DC Code,DC Name,RDC Code,RDC Name,Article Number,Article Name,Article Vendor Name,Selling Unit,Item Flag,SCGH Item Status,SCGH DC Item Flag,DC Stock,Show & Stock (By Branch),Product Class (Previous Version),Product Class (QTY),Product Class (Value),Product Class (Recommendation) *
+3000-C1,DC TEST 2,8020011,SCGH Korat test01,1047957,เครื่องทำน้ำอุ่น 5100W รุ่น CUBE5C(OB),,U12,Standard,Discon,,,Y,C,C,C,A
+8910,DC Korat 01,8020012,SCGH Korat RDC test 111,1060496,เครื่องวัดระดับด้วยเลเซอร์ KW8839N,,U12,Standard,Discon,,,Y,C,B,C,A
+,,8020013,SCGH RDC โคราช,1065913,ใบมีดตัดกระเบื้อง KAWASAKI,,EA,Standard,Ready,,,Y,C,C,C,A
+3000-C1,DC TEST 2,8020011,SCGH Korat test01,1056969,กุญแจโซโล SQC-L 45  มม,,EA,Standard,Discon,,,Y,C,C,C,A
+3000-C1,DC TEST 2,8020011,SCGH Korat test01,1056988,กุญแจลิ้นตายโซโล 2202 PB,,EA,Standard,Discon,,,Y,C,C,C,C
+3000-C1,DC TEST 2,8020011,SCGH Korat test01,1028792,ตู้แขวนเข้ามุมGRAND PLATINUMเซอร์คอน*ขาว,,SET,Standard,Ready,,,Y,C,C,B,C
+3000-C1,DC TEST 2,8020011,SCGH Korat test01,1081117,ลูกบิดหลบมุ้งลวด 489.10.303,,EA,Standard,Ready,,,Y,C,C,B,C
+3000-C1,DC TEST 2,8020011,SCGH Korat test01,1060533,ประตู PVC ลายไม้แดง รุ่น A3 70X200,,U04,Standard,Discon,,,Y,C,C,C,C
+8910,DC Korat 01,8020012,SCGH Korat RDC test 111,1064918,กลอนสแตนเลส COLT # 400  6 นิ้ว SS,,EA,Standard,Inactive,,,Y,C,C,C,B
+8910,DC Korat 01,8020012,SCGH Korat RDC test 111,1064922,กันชนแม่เหล็กแบบโดม COLT # 511  สี SS,,EA,Standard,Discon,,,Y,C,C,C,B
+8910,DC Korat 01,8020012,SCGH Korat RDC test 111,1064927,มือจับสแตนเลส # 6  6 นิ้ว SS,,EA,Standard,Discon,,,Y,C,C,C,B
+8910,DC Korat 01,8020012,SCGH Korat RDC test 111,1064937,ลูกบิดห้องน้ำ COLT 8800 SS รุ่นแผง 8802,,EA,Standard,Discon,,,Y,C,C,C,B
+8910,DC Korat 01,8020012,SCGH Korat RDC test 111,1064946,มือจับหน้าต่าง20ซม 972.30.906 สแตนเลส,,EA,Standard,Ready,,,Y,C,C,C,B
+8910,DC Korat 01,8020012,SCGH Korat RDC test 111,1056996,ลูกบิดประตูทั่วไป 94D-86 SS,,EA,Standard,Discon,,,Y,C,C,C,B
+8910,DC Korat 01,8020012,SCGH Korat RDC test 111,1058438,ตลับกุญแจมอร์ทิสล็อคลิ้นสปิง 911.23.459,,EA,Standard,Discon,,,Y,C,C,C,C
+8910,DC Korat 01,8020012,SCGH Korat RDC test 111,1057038,กุญแจโซโล NL 40,,EA,Standard,Discon,,,Y,C,C,C,C
+,,8020013,SCGH RDC โคราช,1061537,ประตูลวดลาย INLAY-18  สนNz 80X200,,U04,Standard,Ready,,,Y,C,C,C,C
+8910,DC Korat 01,8020012,SCGH Korat RDC test 111,1063550,ไม้รั้วหัวมน3นิ้ว7.2X150X1.1CM.*ชอค,,EA,Standard,Discon,,,Y,C,C,C,B
+3000-C1,DC TEST 2,8020011,SCGH Korat test01,1056138,ร็อคกี้ สโตน เบจ ตัดขอบ (PK8) 12X24 A,,PC,Standard,Inactive,,,Y,C,C,C,B
+3000-C1,DC TEST 2,8020011,SCGH Korat test01,1058088,รัฟ วู๊ด โอ๊ค ตัดขอบ (DG) 6X24 A,,PC,Standard,Discon,,,Y,C,C,C,C
+8910,DC Korat 01,8020012,SCGH Korat RDC test 111,102703,พอร์ซเลน ขาว 12X12*A,,PC,Standard,Ready,,,Y,C,A,B,C
+8910,DC Korat 01,8020012,SCGH Korat RDC test 111,1042666,บล็อคแก้ว แครอท/หยาดเพชร 3 นิ้ว,,U13,Standard,Ready,,,Y,C,C,C,A
+8910,DC Korat 01,8020012,SCGH Korat RDC test 111,1042552,สีรองพื้น JOTASHIELD PRIMER 5GL,,DR,Standard,Ready,,,Y,C,C,C,A
+8910,DC Korat 01,8020012,SCGH Korat RDC test 111,1064884,ซิงค์แกรนิต 2 หลุม TEKNO 490 สีดำ,,U05,Standard,Ready,,,Y,C,C,C,C
+8910,DC Korat 01,8020012,SCGH Korat RDC test 111,1060307,เตาแก๊สฝัง 4หัว PN60GVF4FBX Next Pre60cm,,U12,Standard,Ready,,,Y,C,C,C,C
+8910,DC Korat 01,8020012,SCGH Korat RDC test 111,1060315,เครื่องดูดควัน 90cm CAPPA1952 Aqua Blue,,U12,Standard,Ready,,,Y,C,C,C,C
+3000-C1,DC TEST 2,8020011,SCGH Korat test01,1047823,K-72633X-S-0สุขภัณฑ์ชิ้นเดียว 3/4.5 REVE,,SET,Standard,Inactive,,,Y,C,C,C,A
+3000-C1,DC TEST 2,8020011,SCGH Korat test01,1065401,กระจกเงาลายไม้ WBS 90X90ซม.*โอ๊คเงิน,,U04,Standard,Ready,,,Y,C,C,C,A
+3000-C1,DC TEST 2,8020011,SCGH Korat test01,1067005,กระจกเงาลายไม้ MWA 40X70ซม.*เทา,,U04,Standard,Discon,,,Y,C,C,C,A
+3000-C1,DC TEST 2,8020011,SCGH Korat test01,1081119,K-45764X-C38ตู้เฟอร์นิเจอร์FOREFRONTโอ๊ค,,SET,Standard,Ready,,,Y,C,C,C,A
+8910,DC Korat 01,8020012,SCGH Korat RDC test 111,1064493,GF-24-470B-50 วาล์วฝักบัว โครเมี่ยม,,SET,Standard,Discon,,,Y,C,C,C,C
+8910,DC Korat 01,8020012,SCGH Korat RDC test 111,1081132,หัวฝักบัวเรนชาวเวอร์ F40005-CHADY,,SET,Standard,Ready,,,Y,C,C,C,A
+8910,DC Korat 01,8020012,SCGH Korat RDC test 111,1045665,VT0101#45 ตู้เก็บของใต้อ่างล้างหน้า,,SET,Standard,Inactive,,,Y,C,C,C,A
+8910,DC Korat 01,8020012,SCGH Korat RDC test 111,1057716,เทปคอมมานด์ชนิดกันน้ำพร้อมที่วางสบู่ 3M,,EA,Standard,Discon,,,Y,C,C,C,C
+8910,DC Korat 01,8020012,SCGH Korat RDC test 111,1065044,856601F3Tตู้ใต้อ่างแบบแขวน120cmKHROMAแดง,,SET,Standard,Ready,,,Y,C,C,C,A
+8910,DC Korat 01,8020012,SCGH Korat RDC test 111,1065079,LB-SH0508-SETชุดฝักบัวสายอ่อน5ระดับโครม,,SET,Standard,Discon,,,Y,C,C,C,A
+8910,DC Korat 01,8020012,SCGH Korat RDC test 111,1065287,กระจกเงาลายกนก WKS 65X200ซม.*เงิน,,U04,Standard,Ready,,,Y,C,C,C,A
+,,8020013,SCGH RDC โคราช,1081134,ราวปรับระดับทรงโค้ง F40014-CHADY,,SET,Standard,Ready,,,Y,C,B,C,A
+8910,DC Korat 01,8020012,SCGH Korat RDC test 111,1058046,เจลน้ำหอมดับกลิ่นไพน์ F4060 120 กรัม,,EA,Standard,Discon,,,Y,C,C,C,C
+3000-C1,DC TEST 2,8020011,SCGH Korat test01,1048359,"โคมแขวนพร้อมหลอด,LUMAX#PSG60-1913/G4X13",,EA,Standard,Discon,,,Y,C,C,C,B
+3000-C1,DC TEST 2,8020011,SCGH Korat test01,1065633,หลอด LED LUMAX/FILAMENT/A60/4W/E27/2700K,,EA,Standard,Ready,,,Y,C,C,C,A
+3000-C1,DC TEST 2,8020011,SCGH Korat test01,1010640,ท่ออ่อนร้อยสายไฟ UNION 3/4นิ้ว (50เมตร),,ROL,Standard,Discon,,,Y,C,C,C,C
+3000-C1,DC TEST 2,8020011,SCGH Korat test01,1060486,หลอดLED MR16 COB 220V 5W/WW,,EA,Standard,Discon,,,Y,C,C,C,C
+3000-C1,DC TEST 2,8020011,SCGH Korat test01,1101669,"โคมติดผนัWSF20-092/WH/E27x1,LED3W/WW,USB",,EA,Standard,Ready,,,Y,C,C,C,A
+8910,DC Korat 01,8020012,SCGH Korat RDC test 111,1060801,ไฟช่อ MAX LIGHT/F100195-18A,,EA,Standard,Discon,,,Y,C,C,B,B
+8910,DC Korat 01,8020012,SCGH Korat RDC test 111,1059118,ไฟช่อ PINTO 22939,,EA,Standard,Discon,,,Y,C,C,C,C
+8910,DC Korat 01,8020012,SCGH Korat RDC test 111,1059093,ไฟผนัง SAVOY 82751,,EA,Standard,Discon,,,Y,C,C,C,C
+8910,DC Korat 01,8020012,SCGH Korat RDC test 111,1060469,เต้ารับเดี่ยว UNIVERSAL 16A 250V,,EA,Standard,Inactive,,,Y,C,A,B,A
+8910,DC Korat 01,8020012,SCGH Korat RDC test 111,1059296,ไฟหัวเสา :DATNA DARK GREY 1L 74441,,EA,Standard,Ready,,,Y,C,C,C,C
+,,8020013,SCGH RDC โคราช,1061420,ไฟแขวน MAX LIGHT/10358-3,,EA,Standard,Discon,,,Y,C,C,C,C
+,,8020013,SCGH RDC โคราช,1046071,ไฟผนัง MANHATTEN 81061,,EA,Standard,Discon,,,Y,C,C,C,A
+3000-C1,DC TEST 2,8020011,SCGH Korat test01,1058972,แผ่นยางรองอุปกรณ์ 25x2 mm 81-PL341-RB ดำ,,PAK,Standard,Ready,,,Y,C,C,C,C
+8910,DC Korat 01,8020012,SCGH Korat RDC test 111,1065009,ลวดแม็กซ์ปืนลม รุ่น F-15,,EA,Standard,Discon,,,Y,C,C,C,A

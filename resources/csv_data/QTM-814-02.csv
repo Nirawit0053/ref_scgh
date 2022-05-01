@@ -1,0 +1,10 @@
+﻿Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,Column9,Column10,Column11,Column12,Column13,Column14,Column15,Column16,Column17,Column18,Column19
+Category Forecast,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+* Can adjust only value column *,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+Category (MCH2),Category (MCH2) Code,Category (MCH1),Category (MCH1) Code,Brand,Data Display,Jan 2022 Value *,Feb 2022 Value *,Mar 2022 Value *,Apr 2022 Value *,May 2022 Value *,Jun 2022 Value *,Jul 2022 Value *,Aug 2022 Value *,Sep 2022 Value *,Oct 2022 Value *,Nov 2022 Value *,Dec 2022 Value *,Total
+มือจับ/ลูกบิด,D3,มือจับประตู,D301,LIDO,Forecast,68.04,58.07,58.87,68.12,67.31,83.33,80.54,81.99,81.55,83.11,94.08,96.04,921.05
+มือจับ/ลูกบิด,D3,มือจับประตู,D301,LIDO,Actual,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0
+มือจับ/ลูกบิด,D3,มือจับประตู,D301,LIDO,Target,723.97,717.53,763.89,870.87,874.26,974.25,933.50,1094.04,1217.88,1176.00,1332.33,1283.71,11962.23
+มือจับ/ลูกบิด,D3,มือจับประตู,D301,LIDO,Adjust *,,,,,,,,,41247,,,,0

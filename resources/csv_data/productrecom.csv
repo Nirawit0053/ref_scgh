@@ -1,0 +1,54 @@
+﻿Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,Column9,Column10,Column11,Column12,Column13,Column14,Column15,Column16,Column17,Column18,Column19
+Product Class Recommendation,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+* Can adjust only value column *,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+DC Code,DC Name,RDC Code,RDC Name,FC Store Code,FC Store Name,Article Number,Article Name,Article Vendor Name,Selling Unit,Item Flag,SCGH Item Status,SCGH DC Item Flag,DC Stock,Show & Stock (By Branch),Product Class (Previous Version),Product Class (QTY),Product Class (Value),Product Class (Recommendation) *
+8910,DC Korat 01,,,8020,SCGH โคราช,1033324,CNGT20E1 ถังดักไขมันบนดินขนาด 20  ลิตร,,U05,Standard,Ready,,,N,B,C,C,A
+8910,DC Korat 01,,,8100,SCGH อุบลฯ-วารินชำราบ,1033328,CN1200E1 ถังบำบัดน้ำเสียชนิดไม่เติมอากาศ,,U05,Standard,Ready,,,N,C,A,A,A
+8910,DC Korat 01,,,8020,SCGH โคราช,1103330,BRAZILIEN BROWN M. (N6153135) 15X60*A,,PC,Standard,Ready,,DC FLOW THROUGH,N,C,C,C,A
+8910,DC Korat 01,,,8040,SCGH ขอนเเก่น-ชุมแพ,1103330,BRAZILIEN BROWN M. (N6153135) 15X60*A,,PC,Standard,Ready,,DC FLOW THROUGH,N,C,C,C,A
+,,,,8050,SCGH นครศรีธรรมราช,1103330,BRAZILIEN BROWN M. (N6153135) 15X60*A,,PC,Standard,Ready,,DC FLOW THROUGH,N,C,A,A,C
+,,,,8070,SCGH นครสวรรค์,1103330,BRAZILIEN BROWN M. (N6153135) 15X60*A,,PC,Standard,Ready,,DC FLOW THROUGH,N,A,C,C,C
+8910,DC Korat 01,,,8100,SCGH อุบลฯ-วารินชำราบ,1103330,BRAZILIEN BROWN M. (N6153135) 15X60*A,,PC,Standard,Ready,,DC FLOW THROUGH,N,C,C,C,C
+8910,DC Korat 01,,,8120,SCGH ร้อยเอ็ด,1103330,BRAZILIEN BROWN M. (N6153135) 15X60*A,,PC,Standard,Ready,,DC FLOW THROUGH,N,C,C,C,C
+8910,DC Korat 01,,,8020,SCGH โคราช,1103333,JAYDEN CHERRY  (L122024) 20X120*A,,PC,Standard,Ready,,DC FLOW THROUGH,N,C,C,A,B
+8910,DC Korat 01,,,8100,SCGH อุบลฯ-วารินชำราบ,1103333,JAYDEN CHERRY  (L122024) 20X120*A,,PC,Standard,Ready,,DC FLOW THROUGH,N,A,C,A,B
+8910,DC Korat 01,8020012,SCGH Korat RDC test 111,8010,SCGH กระบี่,1103332,TROPICAL STONE BEIGE(TS6001P)60X60*A,,PC,Standard,Ready,,DC FLOW THROUGH,N,C,C,C,B
+8910,DC Korat 01,8020012,SCGH Korat RDC test 111,8010,SCGH กระบี่,1033309,เปียซ่า เอเวอร์เรส 4.5X4.5 *A,,PC,Standard,Ready,,DC FLOW THROUGH,N,C,C,C,B
+,,8020013,SCGH RDC โคราช,8030,SCGH ลพบุรี,1103338,เครื่องดูดควัน รุ่น TNP HDS6048DG,,U12,Standard,Ready,,DC STOCK,N,A,C,A,B
+8910,DC Korat 01,,,8100,SCGH อุบลฯ-วารินชำราบ,1103338,เครื่องดูดควัน รุ่น TNP HDS6048DG,,U12,Standard,Ready,,DC STOCK,N,A,A,A,B
+3000-C1,DC TEST 2,8020011,SCGH Korat test01,8080,SCGH 3K หาดใหญ่,1033399,495.80.055 ราวแขวนผ้า60ซม. โครเมี่ยม,,EA,Standard,Ready,,DC FLOW THROUGH,N,A,C,B,B
+8910,DC Korat 01,,,8090,SCGH บุรีรัมย์-นางรอง,1033399,495.80.055 ราวแขวนผ้า60ซม. โครเมี่ยม,,EA,Standard,Ready,,DC FLOW THROUGH,N,B,C,C,B
+,,,,8190,SCGH ทรีเค โฮมเบส,1033399,495.80.055 ราวแขวนผ้า60ซม. โครเมี่ยม,,EA,Standard,Ready,,DC FLOW THROUGH,N,C,C,C,B
+8910,DC Korat 01,,,8020,SCGH โคราช,1033394,495.80.060 หิ้งวางของ2ชั้น โครเมี่ยม,,EA,Standard,Ready,,DC FLOW THROUGH,N,C,C,C,B
+3000-C1,DC TEST 2,8020011,SCGH Korat test01,8080,SCGH 3K หาดใหญ่,1033394,495.80.060 หิ้งวางของ2ชั้น โครเมี่ยม,,EA,Standard,Ready,,DC FLOW THROUGH,N,C,C,C,B
+,,,,8110,SCGH ประจวบ-ร่อนทองชัย,1033394,495.80.060 หิ้งวางของ2ชั้น โครเมี่ยม,,EA,Standard,Ready,,DC FLOW THROUGH,N,B,B,A,B
+8910,DC Korat 01,,,8020,SCGH โคราช,1033336,495.80.052 ห่วงแขวนผ้า โครเมี่ยม,,EA,Standard,Ready,,DC FLOW THROUGH,N,C,C,C,B
+8910,DC Korat 01,,,8090,SCGH บุรีรัมย์-นางรอง,1033336,495.80.052 ห่วงแขวนผ้า โครเมี่ยม,,EA,Standard,Ready,,DC FLOW THROUGH,N,A,A,A,B
+,,,,8110,SCGH ประจวบ-ร่อนทองชัย,1033336,495.80.052 ห่วงแขวนผ้า โครเมี่ยม,,EA,Standard,Ready,,DC FLOW THROUGH,N,B,A,A,B
+8910,DC Korat 01,,,8020,SCGH โคราช,1033396,495.80.050 ที่วางแก้วแปรงฟันคู่ โครเมี่ย,,EA,Standard,Ready,,DC STOCK,N,C,A,A,B
+3000-C1,DC TEST 2,8020011,SCGH Korat test01,8080,SCGH 3K หาดใหญ่,1033396,495.80.050 ที่วางแก้วแปรงฟันคู่ โครเมี่ย,,EA,Standard,Ready,,DC STOCK,N,C,C,B,B
+,,,,8190,SCGH ทรีเค โฮมเบส,1033396,495.80.050 ที่วางแก้วแปรงฟันคู่ โครเมี่ย,,EA,Standard,Ready,,DC STOCK,N,B,C,B,B
+8910,DC Korat 01,,,8020,SCGH โคราช,1033337,495.80.053 ที่ใส่กระดาษชำระ โครเมี่ยม,,EA,Standard,Ready,,DC STOCK,N,C,C,C,B
+,,8020013,SCGH RDC โคราช,8030,SCGH ลพบุรี,1033337,495.80.053 ที่ใส่กระดาษชำระ โครเมี่ยม,,EA,Standard,Ready,,DC STOCK,N,A,C,C,B
+3000-C1,DC TEST 2,8020011,SCGH Korat test01,8080,SCGH 3K หาดใหญ่,1033337,495.80.053 ที่ใส่กระดาษชำระ โครเมี่ยม,,EA,Standard,Ready,,DC STOCK,N,C,C,C,B
+8910,DC Korat 01,,,8090,SCGH บุรีรัมย์-นางรอง,1033337,495.80.053 ที่ใส่กระดาษชำระ โครเมี่ยม,,EA,Standard,Ready,,DC STOCK,N,C,C,C,B
+,,,,8190,SCGH ทรีเค โฮมเบส,1033337,495.80.053 ที่ใส่กระดาษชำระ โครเมี่ยม,,EA,Standard,Ready,,DC STOCK,N,C,C,C,B
+,,,,8110,SCGH ประจวบ-ร่อนทองชัย,1033338,495.80.054 ที่ใส่กระดาษชำระมีฝาปิด,,EA,Standard,Ready,,DC STOCK,N,C,C,A,B
+,,8020013,SCGH RDC โคราช,8030,SCGH ลพบุรี,1033393,495.80.059 หิ้งเรียบพร้อมราว โครเมี่ยม,,EA,Standard,Ready,,DC STOCK,N,B,C,A,B
+8910,DC Korat 01,,,8090,SCGH บุรีรัมย์-นางรอง,1033393,495.80.059 หิ้งเรียบพร้อมราว โครเมี่ยม,,EA,Standard,Ready,,DC STOCK,N,C,C,C,B
+8910,DC Korat 01,,,8020,SCGH โคราช,1033335,495.80.051 ขอแขวนผ้าคู่ โครเมี่ยม,,EA,Standard,Ready,,DC FLOW THROUGH,N,A,C,B,B
+,,,,8110,SCGH ประจวบ-ร่อนทองชัย,1033335,495.80.051 ขอแขวนผ้าคู่ โครเมี่ยม,,EA,Standard,Ready,,DC FLOW THROUGH,N,C,A,A,B
+8910,DC Korat 01,,,8100,SCGH อุบลฯ-วารินชำราบ,1033389,495.61.074 ก๊อกผสมยืนอาบ,,EA,Standard,Ready,,DC FLOW THROUGH,N,C,C,A,B
+8910,DC Korat 01,,,8020,SCGH โคราช,1110333,กล่องอาหารแอนตี้แบคทีเรีย 6004 1150 ML,,EA,Standard,Ready,,DC STOCK,N,C,A,B,B
+,,8020013,SCGH RDC โคราช,8030,SCGH ลพบุรี,1110333,กล่องอาหารแอนตี้แบคทีเรีย 6004 1150 ML,,EA,Standard,Ready,,DC STOCK,N,C,B,B,B
+,,,,8060,SCGH เชียงราย,1110333,กล่องอาหารแอนตี้แบคทีเรีย 6004 1150 ML,,EA,Standard,Ready,,DC STOCK,N,B,A,A,B
+,,,,8070,SCGH นครสวรรค์,1110333,กล่องอาหารแอนตี้แบคทีเรีย 6004 1150 ML,,EA,Standard,Ready,,DC STOCK,N,A,B,B,B
+3000-C1,DC TEST 2,8020011,SCGH Korat test01,8080,SCGH 3K หาดใหญ่,1110333,กล่องอาหารแอนตี้แบคทีเรีย 6004 1150 ML,,EA,Standard,Ready,,DC STOCK,N,C,C,C,B
+8910,DC Korat 01,,,8090,SCGH บุรีรัมย์-นางรอง,1110333,กล่องอาหารแอนตี้แบคทีเรีย 6004 1150 ML,,EA,Standard,Ready,,DC STOCK,N,A,C,C,B
+,,,,8190,SCGH ทรีเค โฮมเบส,1110333,กล่องอาหารแอนตี้แบคทีเรีย 6004 1150 ML,,EA,Standard,Ready,,DC STOCK,N,A,C,C,B
+3000-C1,DC TEST 2,8020011,SCGH Korat test01,8080,SCGH 3K หาดใหญ่,1190333,HW สายไฟอ่อน VKF 2*1มม/500V ดำ,10027653,ROL,Standard,Ready,,,N,C,C,B,B
+8910,DC Korat 01,,,8100,SCGH อุบลฯ-วารินชำราบ,1190333,HW สายไฟอ่อน VKF 2*1มม/500V ดำ,10027653,ROL,Standard,Ready,,,N,B,C,C,B
+,,,,8200,SCGH บุญทวีวัสดุ,1190333,HW สายไฟอ่อน VKF 2*1มม/500V ดำ,10027653,ROL,Standard,Ready,,,N,B,C,C,B
+8910,DC Korat 01,8020012,SCGH Korat RDC test 111,8010,SCGH กระบี่,70333,จมูกบันไดอลูฯNA406010 4x600ซม.อลูมิเนียม,,EA,Standard,Ready,,DC FLOW THROUGH,N,C,A,A,B

@@ -1,0 +1,17 @@
+﻿Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,Column9,Column10,Column11,Column12,Column13,Column14,Column15,Column16,Column17,Column18,Column19,Column20,Column21,Column22,Column23,Column24
+Product master,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Article SKU: 1074021,,,,,,,,,,,,,,,,,,,,,,,
+Categories: All,,,,,,,,,,,,,,,,,,,,,,,
+Brands: All,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+* Can adjust only value column *,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+DC Code,DC Name,RDC Code,RDC Name,FC Store Code,FC Store Name,Article Number,Article Name,Article Vendor Name,Selling Unit,Item Flag,Batch Management,MOQ (QTY),Ordering Lead Time (Day),SCGH Item Status,SCGH DC Item Flag,DC Stock,Show & Stock (By Branch),Product Replacement *,Replacement Start Date *,Replacement End Date *,Product Class,Min Level (QTY),Max Level (QTY)
+,,"=""8020013""",SCGH RDC โคราช,8030,SCGH ลพบุรี,1074021,BIJEL WHITE M.(SP6PT025M) 60X60 *A,,PC,Standard,Yes,,,Ready,,DC STOCK,N,1194437,30/01/2022,30/03/2022,,,
+,,,,8050,SCGH นครศรีธรรมราช,1074021,BIJEL WHITE M.(SP6PT025M) 60X60 *A,,PC,Standard,Yes,,,Ready,,DC STOCK,N,1194437,30/01/2022,30/03/2022,C,,
+,,,,8060,SCGH เชียงราย,1074021,BIJEL WHITE M.(SP6PT025M) 60X60 *A,,PC,Standard,Yes,,,Ready,,DC STOCK,N,1194437,30/01/2022,30/03/2022,C,,
+,,,,8070,SCGH นครสวรรค์,1074021,BIJEL WHITE M.(SP6PT025M) 60X60 *A,,PC,Standard,Yes,,,Ready,,DC STOCK,N,1194437,30/01/2022,30/03/2022,,,
+,,,,8190,SCGH ทรีเค โฮมเบส,1074021,BIJEL WHITE M.(SP6PT025M) 60X60 *A,,PC,Standard,Yes,,,Ready,,DC STOCK,N,1194437,30/01/2022,30/03/2022,,,
+"=""8910""",DC Korat,,,8020,SCGH โคราช,1074021,BIJEL WHITE M.(SP6PT025M) 60X60 *A,,PC,Standard,Yes,,,Ready,,DC STOCK,N,1194437,30/01/2022,30/03/2022,B,,
+,,"=""8020011""",SCGH Korat RDC test,8080,SCGH 3K หาดใหญ่,1074021,BIJEL WHITE M.(SP6PT025M) 60X60 *A,,PC,Standard,Yes,,,Ready,,DC STOCK,N,1194437,30/01/2022,30/03/2022,,,

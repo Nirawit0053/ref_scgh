@@ -1,0 +1,6 @@
+Product Min Max
+
+* Can adjust only value column *
+
+DC Code,DC Name,RDC Code,RDC Name,FC Store Code,FC Store Name,Article Number,Article Name,Article Vendor Name,Selling Unit,Item Flag,Batch Management,MOQ (QTY),Ordering Lead Time (Day),SCGH Item Status,SCGH DC Item Flag,DC Stock,Show & Stock (By Branch),PO Type,Previous Product Class,Product Class,Previous Min Level (QTY),Min Level (QTY) *,Previous Max Level (QTY),Max Level (QTY) *,Error Message
+8910,DC Korat 01,,,8100,SCGH อุบลฯ-วารินชำราบ,1110453,ตู้เย็น 2 ประตู RVG550PDX  19.8Q กระจกดำ,,U12,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,A,A,1,AAA,3,3,Min Level (QTY) please input numeric without decimal and the value must be greater or equal to zero.

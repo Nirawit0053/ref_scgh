@@ -1,0 +1,9 @@
+Category Forecast
+
+* Can adjust only value column *
+
+Category (MCH2),Category (MCH2) Code,Category (MCH1),Category (MCH1) Code,Brand,Data Display,Jan 2022 Value *,Feb 2022 Value *,Mar 2022 Value *,Apr 2022 Value *,May 2022 Value *,Jun 2022 Value *,Jul 2022 Value *,Aug 2022 Value *,Sep 2022 Value *,Oct 2022 Value *,Nov 2022 Value *,Dec 2022 Value *,Total,Error Reasons
+ซิงค์และอุปกรณ์,K3,ซิงค์ฝังเคาน์เตอร์,K301,DIAMOND,Forecast,,,,,,521.95,540.21,,,,,,1062.16, 
+ซิงค์และอุปกรณ์,K3,ซิงค์ฝังเคาน์เตอร์,K301,DIAMOND,Actual,,,,,,0.00,0.00,,,,,,0, 
+ซิงค์และอุปกรณ์,K3,ซิงค์ฝังเคาน์เตอร์,K301,DIAMOND,Target,,,,,,13788.08,14338.54,,,,,,28126.62, 
+ซิงค์และอุปกรณ์,K3,ซิงค์ฝังเคาน์เตอร์,K301,DIAMOND,Adjust *,,,,,,-1234,10_50,,,,,,0,"The input format is invalid, please input numbers with 2 decimal places and the value must be greater or equal to zero."

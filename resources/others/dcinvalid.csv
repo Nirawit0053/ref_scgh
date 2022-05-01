@@ -1,0 +1,9 @@
+﻿Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,Column9,Column10,Column11,Column12,Column13,Column14,Column15
+Product Class Recommendation,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+* Can adjust only value column *,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+DC Code,DC Name,Article Number,Article Name,Article Vendor Name,Selling Unit,Item Flag,SCGH Item Status,SCGH DC Item Flag,DC Stock,Show & Stock (By Branch),Product Class (Previous Version),Product Class (QTY),Product Class (Value),Product Class (Recommendation) *
+8910,DC Korat 01,84222,ดอกสว่านโรตารี่ HR01,,EA,Standard,Ready,,DC FLOW THROUGH,N,A,C,C,1
+8910,DC Korat 01,1042223,โช๊คอัพประตูระบบตั้งค้างVC 7722H-BN,,EA,Standard,Ready,,DC FLOW THROUGH,N,B,C,C,A
+8910,DC Korat 01,42221,กระจกแกะลาย 45X60 ซม. GC-S9  วงรี,,U04,Standard,Ready,,DC FLOW THROUGH,N,A,C,C,A

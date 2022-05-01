@@ -1,0 +1,18 @@
+﻿Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,Column9,Column10,Column11,Column12,Column13,Column14,Column15,Column16,Column17,Column18,Column19,Column20,Column21,Column22,Column23,Column24,Column25
+Product Min Max,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+Article SKU: 1110453,,,,,,,,,,,,,,,,,,,,,,,,
+Categories: All,,,,,,,,,,,,,,,,,,,,,,,,
+Brands: All,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+Product Min Max Level:,FRANCHISE,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+* Can adjust only value column *,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+DC Code,DC Name,RDC Code,RDC Name,FC Store Code,FC Store Name,Article Number,Article Name,Article Vendor Name,Selling Unit,Item Flag,Batch Management,MOQ (QTY),Ordering Lead Time (Day),SCGH Item Status,SCGH DC Item Flag,DC Stock,Show & Stock (By Branch),PO Type,Previous Product Class,Product Class,Previous Min Level (QTY),Min Level (QTY) *,Previous Max Level (QTY),Max Level (QTY) *
+8910,DC Korat,,,8100,SCGH อุบลฯ-วารินชำราบ,1110453,ตู้เย็น 2 ประตู RVG550PDX  19.8Q กระจกดำ,,U12,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,A,A,1,AAA,3,3
+8910,DC Korat,,,8090,SCGH บุรีรัมย์-นางรอง,1110453,ตู้เย็น 2 ประตู RVG550PDX  19.8Q กระจกดำ,,U12,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,C,A,1,1000,3,3000
+,,,,8060,SCGH เชียงราย,1110453,ตู้เย็น 2 ประตู RVG550PDX  19.8Q กระจกดำ,,U12,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,C,A,,3,,4
+8910,DC Korat,8020012,SCGH Korat RDC test 111,8010,SCGH กระบี่,1110453,ตู้เย็น 2 ประตู RVG550PDX  19.8Q กระจกดำ,,U12,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,C,A,3,3,4,4
+8910,DC Korat,,,8120,SCGH ร้อยเอ็ด,1110453,ตู้เย็น 2 ประตู RVG550PDX  19.8Q กระจกดำ,,U12,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,A,B,1,1,9,7
+8910,DC Korat,,,8040,SCGH ขอนเเก่น-ชุมแพ,1110453,ตู้เย็น 2 ประตู RVG550PDX  19.8Q กระจกดำ,,U12,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,C,C,2,1,7,5

@@ -1,0 +1,25 @@
+pipeline {
+    agent { label 'mac_server_01-CICD-dry'}
+    post {
+      failure {
+        updateGitlabCommitStatus name: 'dryrun', state: 'failed'
+      }
+      success {
+        updateGitlabCommitStatus name: 'dryrun', state: 'success'
+      }
+    }
+    stages {
+        stage('update_inventory') {
+            steps {
+                echo 'Dryrun update_inventory'
+                sh "pabot --pabotlib --processes 5 --dryrun --outputdir testResultInventory ./testcases"
+            }
+        post {
+            always {
+               echo "Publish Robot Framework test results"
+               robot logFileName: 'log.html', outputFileName: 'output.xml', outputPath: './testResultInventory', reportFileName: 'report.html'
+               }
+            }
+        }
+    }
+}

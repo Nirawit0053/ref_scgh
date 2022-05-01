@@ -1,0 +1,10 @@
+﻿Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,Column9,Column10,Column11,Column12,Column13,Column14,Column15,Column16,Column17,Column18,Column19
+Category Forecast,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+* Can adjust only value column *,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+Category (MCH2),Category (MCH2) Code,Category (MCH1),Category (MCH1) Code,Brand,Data Display,Jan 2022 Value *,Feb 2022 Value *,Mar 2022 Value *,Apr 2022 Value *,May 2022 Value *,Jun 2022 Value *,Jul 2022 Value *,Aug 2022 Value *,Sep 2022 Value *,Oct 2022 Value *,Nov 2022 Value *,Dec 2022 Value *,Total
+เครื่องใช้ไฟฟ้าหมวดเตา,K12,เตาไฟฟ้า,K1202,AXIA,Forecast,5240.25,5747.09,5602.92,5443.29,5881.17,6003.89,6214.00,6254.68,6693.04,6468.79,6818.07,6633.22,73000.41
+เครื่องใช้ไฟฟ้าหมวดเตา,K12,เตาไฟฟ้า,K1202,AXIA,Actual,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0
+เครื่องใช้ไฟฟ้าหมวดเตา,K12,เตาไฟฟ้า,K1202,AXIA,Target,8007.16,10908.38,8934.57,10316.20,10418.25,11006.78,12020.17,13552.06,14220.53,14872.49,16075.83,16378.72,146711.14
+เครื่องใช้ไฟฟ้าหมวดเตา,K12,เตาไฟฟ้า,K1202,AXIA,Adjust *,,,,,,,,,18428,,,,0

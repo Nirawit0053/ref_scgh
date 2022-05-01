@@ -1,0 +1,10 @@
+Category Target
+
+* Can adjust only value column *
+
+Category (MCH3) Code,Category (MCH3),Data Display,Jan *,Feb *,Mar *,Apr *,May *,Jun *,Jul *,Aug *,Sep *,Oct *,Nov *,Dec *,Total,Error Reasons
+D,ประตู บานซิงค์และอุปกรณ์,ACTUAL 2020,2025482.69,0.00,2803591.39,2856693.60,3101637.49,3865291.29,3835620.21,3873956.25,4078916.95,4646762.47,3911218.60,4536635.71,39535806.65,
+D,ประตู บานซิงค์และอุปกรณ์,ACTUAL 2021,7155379.94,4850892.05,8098245.52,5302840.23,6969718.20,6086392.77,6647387.81,6558206.62,7865580.15,6938794.00,6003306.25,7086861.76,79563605.30,
+D,ประตู บานซิงค์และอุปกรณ์,ACTUAL 2022,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,
+D,ประตู บานซิงค์และอุปกรณ์,TARGET 2023 CURRENT,,,,,,,,,,,,,0,
+D,ประตู บานซิงค์และอุปกรณ์,TARGET 2023 ADJUSTMENT *,20038.0,,,,,,,,,,,,,"The input format is invalid, please input numbers with 2 decimal places and the value must be greater or equal to zero."

@@ -1,0 +1,6 @@
+Channel
+
+* Can adjust only value column *
+
+DC Code *,DC Name *,RDC Code *,RDC Name *,RDC Inventory Target (Value) *,RDC Lead Time (Day) *,Error Reasons
+,,8020013,SCGH RDC โคราช,55555,5,Inventory Target (Value): Please input numbers with 2 decimal places and the value must be greater or equal to zero

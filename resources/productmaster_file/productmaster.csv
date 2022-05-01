@@ -1,0 +1,15 @@
+﻿Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,Column9,Column10,Column11,Column12,Column13,Column14,Column15,Column16,Column17,Column18,Column19
+Product Class Recommendation,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+Article SKU: 11023,,,,,,,,,,,,,,,,,,
+Categories: All,,,,,,,,,,,,,,,,,,
+Brands: All,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+Product Class Level:,FRANCHISE,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+* Can adjust only value column *,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+DC Code,DC Name,RDC Code,RDC Name,FC Store Code,FC Store Name,Article Number,Article Name,Article Vendor Name,Selling Unit,Item Flag,SCGH Item Status,SCGH DC Item Flag,DC Stock,Show & Stock (By Branch),Product Class (Previous Version),Product Class (QTY),Product Class (Value),Product Class (Recommendation) *
+8910,DC Korat,,,8020,SCGH โคราช,1110231,LUXE AMARILLO  60X60 *A,,PC,Standard,Ready,,DC FLOW THROUGH,N,C,C,C,C
+,,,,8060,SCGH เชียงราย,1110232,JERICO MARFIL 60X60 *A,,PC,Standard,Ready,,DC FLOW THROUGH,N,C,C,C,C
+,,,,8070,SCGH นครสวรรค์,1110233,GALALA BEIGE 60X60 *A,,PC,Standard,Ready,,DC FLOW THROUGH,N,C,C,C,C

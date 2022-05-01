@@ -1,0 +1,7 @@
+Product master
+
+* Can adjust only value column *
+
+DC Code,DC Name,RDC Code,RDC Name,FC Store Code,FC Store Name,Article Number,Article Name,Article Vendor Name,Selling Unit,Item Flag,Batch Management,MOQ (QTY),Ordering Lead Time (Day),SCGH Item Status,SCGH DC Item Flag,DC Stock,Show & Stock (By Branch),Product Replacement *,Replacement Start Date *,Replacement End Date *,Product Class,Min Level (QTY),Max Level (QTY),Error Reason
+"=""3000-C1""",DC TEST 2,"=""8020011""",SCGH Korat test01,8080,SCGH 3K หาดใหญ่,1002939,แบมบู เฟรชลิเนีย 25X40 *A,,PC,Standard,Yes,,,Inactive,,,Y,1002935,,,,,,"Replacement Start date or Replacement End date is invalid format. Please input the date in format ""DD/MM/YYYY"""
+,,,,8190,SCGH ทรีเค โฮมเบส,1002939,แบมบู เฟรชลิเนีย 25X40 *A,,PC,Standard,Yes,,,Inactive,,,Y,1002935,,,,,,"Replacement Start date or Replacement End date is invalid format. Please input the date in format ""DD/MM/YYYY"""

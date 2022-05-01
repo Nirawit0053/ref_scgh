@@ -1,0 +1,15 @@
+﻿Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,Column9,Column10,Column11,Column12,Column13,Column14,Column15,Column16,Column17,Column18,Column19,Column20,Column21,Column22,Column23
+Product Min Max,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+Article SKU: 778,,,,,,,,,,,,,,,,,,,,,,
+Categories: All,,,,,,,,,,,,,,,,,,,,,,
+Brands: All,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+Product Min Max Level:,RDC,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+* Can adjust only value column *,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+DC Code,DC Name,RDC Code,RDC Name,Article Number,Article Name,Article Vendor Name,Selling Unit,Item Flag,Batch Management,MOQ (QTY),Ordering Lead Time (Day),SCGH Item Status,SCGH DC Item Flag,DC Stock,Show & Stock (By Branch),PO Type,Previous Product Class,Product Class,Previous Min Level (QTY),Min Level (QTY) *,Previous Max Level (QTY),Max Level (QTY) *
+,,8020011,SCGH Korat RDC test,77839,MALINO WHITE TY45003 30X45 *A,,PC,Standard,Yes,0,0,Inactive,,,Y,,C,A,,AAAA,,AAAA
+,,8020011,SCGH Korat RDC test,77856,IRIS WHITE TY60000 30X60 *A,,PC,Standard,Yes,0,0,Inactive,,,Y,,C,A,2,1000,2,3000
+,,8020011,SCGH Korat RDC test,77858,GENUS CREMA RW43025 30X45 *A,,PC,Standard,Yes,0,0,Inactive,,,Y,,C,A,,1,,1

@@ -1,0 +1,8 @@
+﻿Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,Column9,Column10,Column11,Column12,Column13,Column14,Column15,Column16,Column17,Column18,Column19,Column20,Column21,Column22,Column23
+Product Min Max,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+* Can adjust only value column *,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+DC Code,DC Name,RDC Code,RDC Name,Article Number,Article Name,Article Vendor Name,Selling Unit,Item Flag,Batch Management,MOQ (QTY),Ordering Lead Time (Day),SCGH Item Status,SCGH DC Item Flag,DC Stock,Show & Stock (By Branch),PO Type,Previous Product Class,Product Class,Previous Min Level (QTY),Min Level (QTY) *,Previous Max Level (QTY),Max Level (QTY) *
+8910,DC Korat 01,8020012,SCGH Korat RDC test 111,1060801,ไฟช่อ MAX LIGHT/F100195-18A,,EA,Standard,Yes,0,0,Discon,,,Y,,C,B,1,10000,4,10000000
+8910,DC Korat 01,8020012,SCGH Korat RDC test 111,1059118,ไฟช่อ PINTO 22939,,EA,Standard,Yes,0,0,Discon,,,Y,,C,C,3,10000,7,10000000

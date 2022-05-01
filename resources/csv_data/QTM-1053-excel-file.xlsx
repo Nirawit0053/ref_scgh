@@ -1,0 +1,9 @@
+Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,Column9,Column10,Column11,Column12,Column13,Column14,Column15,Column16,Column17,Column18,Column19
+Product forecast,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+* Can adjust only value column *,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,																
+Article Number,Article Name	FC Store Code,FC Store Name,Forecast - 2020,Actual Sale - 2020,Forecast Bias (%) - 2020,Accuracy (%) - 2020,Forecast - 2021,Actual Sale - 2021,Forecast Bias (%) - 2021,Accuracy (%) - 2021,Forecast - 2022,Actual Sale - 2022,Forecast Bias (%) - 2022,Accuracy (%) - 2022,Forecast Bias (%),Accuracy (%)
+1119356,ค.ทำน้ำร้อน EHS-150 แนวนอนSTIEBEL ELTRON,8010,SCGH กระบี่,,,,,10,0,,,0,0,,,,,				
+1119049,ค.ทำน้ำอุ่น Crystal 3.5 MAZUMA,8010,SCGH กระบี่,,,,,17,14,21.43,78.57,64,0,,,478.57,-378.57
+1119050,D*ค.ทำน้ำอุ่น Crystal 4.5 MAZUMA,8010,SCGH กระบี่,,,,,42,13,223.08,-123.08,49,0,,,600,-500

@@ -1,0 +1,18 @@
+﻿Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,Column9,Column10,Column11,Column12,Column13,Column14,Column15,Column16,Column17,Column18,Column19,Column20,Column21,Column22,Column23,Column24
+Product master,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Franchise Store: 8120 - SCGH ร้อยเอ็ด,,,,,,,,,,,,,,,,,,,,,,,
+Article Name: เตาไฟฟ้า,,,,,,,,,,,,,,,,,,,,,,,
+Categories: All,,,,,,,,,,,,,,,,,,,,,,,
+Brands: All,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+* Can adjust only value column *,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+DC Code,DC Name,RDC Code,RDC Name,FC Store Code,FC Store Name,Article Number,Article Name,Article Vendor Name,Selling Unit,Item Flag,Batch Management,MOQ (QTY),Ordering Lead Time (Day),SCGH Item Status,SCGH DC Item Flag,DC Stock,Show & Stock (By Branch),Product Replacement *,Replacement Start Date *,Replacement End Date *,Product Class,Min Level (QTY),Max Level (QTY)
+"=""8910""",DC Korat,,,8120,SCGH ร้อยเอ็ด,1016936,เตาไฟฟ้า MEX รุ่น V4SL*ดำ,,U12,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,1194437,30/01/2022,30/04/2022,C,,
+"=""8910""",DC Korat,,,8120,SCGH ร้อยเอ็ด,1017675,เตาไฟฟ้าฝัง4หัวเซรามิครุ่นTNPVT4060MN*ดำ,,U12,Standard,Yes,0,0,Ready,,DC STOCK,N,1194437,30/04/2022,30/05/2022,C,,
+"=""8910""",DC Korat,,,8120,SCGH ร้อยเอ็ด,1097576,เตาไฟฟ้าฝังอินดักชั่น MEX รุ่น HIM332,,U12,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,1194437,20/03/2022,30/03/2022,C,,
+"=""8910""",DC Korat,,,8120,SCGH ร้อยเอ็ด,1107310,เตาไฟฟ้า อินดักชั่น 2 หัวรุ่น G.200 IS-N,,U12,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,,,C,,
+"=""8910""",DC Korat,,,8120,SCGH ร้อยเอ็ด,112396,เตาไฟฟ้า รุ่น TNPCHB3060PATGPBB กระจก,,U12,Standard,Yes,0,0,Ready,,DC STOCK,N,,,,C,,
+"=""8910""",DC Korat,,,8120,SCGH ร้อยเอ็ด,1155851,เตาไฟฟ้าเซรามิค 2 หัว SE232TD, ,U12,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,,,B,,
+"=""8910""",DC Korat,,,8120,SCGH ร้อยเอ็ด,1157814,เตาไฟฟ้า สเมก รุ่น SE264TD,SE264TD,U12,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,,,B,,

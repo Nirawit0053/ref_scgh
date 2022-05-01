@@ -1,0 +1,6 @@
+Product Class Recommendation
+
+* Can adjust only value column *
+
+DC Code,DC Name,RDC Code,RDC Name,Article Number,Article Name,Article Vendor Name,Selling Unit,Item Flag,SCGH Item Status,SCGH DC Item Flag,DC Stock,Show & Stock (By Branch),Product Class (Previous Version),Product Class (QTY),Product Class (Value),Product Class (Recommendation) *,Error Message
+8910,DC Korat 01,8020012,SCGH Korat RDC test 111,87139,มือจับ LHS 11-110 BS 110MM.ทองเหลือง/เงา,,EA,Standard,Discon,,,Y,C,C,C,1,"Product Class (Recommendation) Please input only A, B, C"

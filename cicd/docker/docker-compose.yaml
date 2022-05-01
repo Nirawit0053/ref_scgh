@@ -1,0 +1,32 @@
+version: '3.8'
+
+services:
+    chrome:
+        image: seleniarm/standalone-chromium:4.1.2-20220227
+        hostname: chrome
+        networks:
+          - web
+        privileged: true
+        shm_size: 2g
+        healthcheck:
+          test: curl --fail http://localhost:4444/status || exit 1
+          interval: 30s
+          timeout: 10s
+          retries: 5
+        restart: always
+    test:
+        build:
+          context: ../../
+          dockerfile: ./cicd/docker/Dockerfile
+        command : ${COMMAND_ROBOT}
+        networks:
+          - web
+        depends_on: 
+          chrome:
+            condition: service_healthy
+        volumes:
+          - ../log:/scgh/log
+
+networks:
+  web:
+    driver:  bridge

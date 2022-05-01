@@ -1,0 +1,80 @@
+pipeline {
+    agent { label 'mac_server_01-CICD'}
+    environment {
+        JOB_GIT_URL= 'https://patamaporn.h@gitlab.com/doppiotech/dumbledore.git'
+        JOB_GIT_BRANCH= 'main'
+        GIT_CREDENTIAL= 'a8ac8982-0d5a-459d-809f-eda950edbc49'
+    }
+    post {
+        failure {
+            updateGitlabCommitStatus name: 'all_tests', state: 'failed'
+        }
+        success {
+            updateGitlabCommitStatus name: 'all_tests', state: 'success'
+        }
+        always {
+            sleep 5
+            script {
+                sh "docker stop hagrid_$BUILD_NUMBER"
+                sh "docker rm -f hagrid_$BUILD_NUMBER"
+                echo "removed container hagrid_$BUILD_NUMBER"
+            }
+            robot(
+                outputPath: './',
+                outputFileName: 'output.xml',
+                reportFileName: 'report.html',
+                logFileName: 'log.html',
+                disableArchiveOutput: false,
+                passThreshold: 100.0,
+                unstableThreshold: 100.0,
+                otherFiles: '*.png, *.jpg',
+                onlyCritical: false
+            )
+            script {
+                String prefix = ":white_check_mark:"
+                env.ROBOT_ALL = sh(script: "python3 robot_parser.py ./output.xml", returnStdout: true).trim()
+                env.ROBOT_FAILED = sh(script: "python3 robot_failed.py ./output.xml", returnStdout: true).trim()
+                if ("${ROBOT_FAILED}".toInteger() > 0) {
+                    prefix = ":wewo:"
+                } 
+                String robotlog = "${BUILD_URL}" + "/robot/report/log.html"
+                robotlog = robotlog.replaceAll( 'localhost', 'doppio-tech.com' )
+                echo "${robotlog}"
+                slackSend(channel: "#doppio-scgh-working-team", message:  "${prefix}  ${JOB_NAME}  #${BUILD_NUMBER} ${BRANCH} \n ${ROBOT_ALL} \n after ${currentBuild.durationString} \n (<${robotlog}|Report>)")
+            }//end script
+            
+            script {
+                try {
+                    echo "Downloading GIT Code from: ${JOB_GIT_URL}. Branch: ${JOB_GIT_BRANCH}"
+                    checkout([$class: "GitSCM", branches: [[name: "${JOB_GIT_BRANCH}"]], doGenerateSubmoduleConfigurations: false,
+                    extensions: [], submoduleCfg: [], userRemoteConfigs: [[credentialsId: "${GIT_CREDENTIAL}",
+                    url: "${JOB_GIT_URL}"]]])
+                } catch (err) {
+                    echo "The Download GIT Code Stage failed"
+                }
+                sh '''
+                ls -la
+                python3 ./robotframework_parser.py  "${JOB_NAME}"
+                '''
+            }//end script
+
+
+            echo "Clean Workspace"
+            cleanWs() 
+        }
+    }
+    stages {
+        stage('run test') {
+            steps {
+                script {
+                        withCredentials([usernamePassword( credentialsId: 'docker-login', usernameVariable: 'USER', passwordVariable: 'PASSWORD')]) {
+                            sh """
+                            docker login -u $USER -p $PASSWORD
+                            docker run --name hagrid_$BUILD_NUMBER -v $WORKSPACE:/robot/reports -v $WORKSPACE:/robot/testcases -e PABOT_OPTIONS='--pabotlib' -e ROBOT_THREADS=$ROBOT_THREADS -e ROBOT_OPTIONS='-v test:test --outputdir /robot/reports' doppiotech/rbf-with-browser:$HAGRID_VERSION
+                            """
+                        }//end credential
+                }//end script
+            }//end steps            
+    }//end stage run test
+    }//end stages
+} //end pipeline

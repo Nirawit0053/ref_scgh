@@ -1,0 +1,6 @@
+Product Min Max
+
+* Can adjust only value column *
+
+DC Code,DC Name,Article Number,Article Name,Article Vendor Name,Selling Unit,Item Flag,Batch Management,MOQ (QTY),Ordering Lead Time (Day),SCGH Item Status,SCGH DC Item Flag,DC Stock,Show & Stock (By Branch),PO Type,Previous Product Class,Product Class,Previous Min Level (QTY),Min Level (QTY) *,Previous Max Level (QTY),Max Level (QTY) *,Error Message
+8910,DC Korat 01,1036623,เตาแก๊สตั้งโต๊ะG7139 Turbo,,U02,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,C,C,1,1000,3,3000,"Min Level (QTY) please input numeric without decimal and the value must be greater or equal to zero., Max Level (QTY) please input numeric without decimal and the value must be greater or equal to zero."

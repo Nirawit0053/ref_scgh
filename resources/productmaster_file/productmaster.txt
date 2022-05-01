@@ -1,0 +1,21 @@
+select s.id 
+, s.replacement_article_code 
+, s.replacement_start_date 
+, s.replacement_end_date 
+, s.created_at 
+, s.updated_at 
+,s.status 
+,s.error_code 
+,s.error_message
+, pv.sku 
+, pv."name" 
+, pv.product_id 
+,p."name" 
+, p.updated_at 
+,p.slug 
+from public.saleor_product_replacement_productreplacement s 
+join public.product_productvariant pv on s.variant_id = pv.id 
+join public.product_product p on pv.product_id = p.id 
+--join public.product_productvariantchannellisting pp on pv.sku = pp.variant_sku 
+where pv.sku like '100294%'
+order by s.updated_at desc;

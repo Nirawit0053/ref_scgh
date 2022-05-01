@@ -1,0 +1,8 @@
+﻿Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,Column9,Column10,Column11,Column12,Column13,Column14,Column15,Column16,Column17
+Product Class Recommendation,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+* Can adjust only value column *,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+DC Code,DC Name,RDC Code,RDC Name,Article Number,Article Name,Article Vendor Name,Selling Unit,Item Flag,SCGH Item Status,SCGH DC Item Flag,DC Stock,Show & Stock (By Branch),Product Class (Previous Version),Product Class (QTY),Product Class (Value),Product Class (Recommendation) *
+8910,DC Korat 01,8020012,SCGH Korat RDC test 111,87139,มือจับ LHS 11-110 BS 110MM.ทองเหลือง/เงา,,EA,Standard,Discon,,,Y,C,C,C,1
+8910,DC Korat 01,8020012,SCGH Korat RDC test 111,87130,ดาวน์ไลท์ SP 350 1 S GN หน้าทองขอบเงิน,,EA,Standard,Ready,,,Y,C,C,C,A

@@ -1,0 +1,84 @@
+﻿Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,Column9,Column10,Column11,Column12,Column13,Column14,Column15
+Product Class Recommendation,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+* Can adjust only value column *,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+DC Code,DC Name,Article Number,Article Name,Article Vendor Name,Selling Unit,Item Flag,SCGH Item Status,SCGH DC Item Flag,DC Stock,Show & Stock (By Branch),Product Class (Previous Version),Product Class (QTY),Product Class (Value),Product Class (Recommendation) *
+8910,DC Korat 01,1051081,พัดลมระบายอากาศ EX-25SG5T,,U12,Standard,Ready,,DC FLOW THROUGH,N,C,C,C,B
+8910,DC Korat 01,1081675,บานพับถอดได้489.02.453*ทองแดงรมดำ,,EA,Standard,Ready,,DC FLOW THROUGH,N,C,C,C,B
+8910,DC Korat 01,1081545,ดิโอโร เทา (DG) 8X16 *A,,PC,Standard,Ready,,DC STOCK,N,C,C,C,B
+8910,DC Korat 01,1081354,PIETRO BEIGE (PG6003P) 60X60 *A,,PC,Standard,Ready,,DC STOCK,N,C,C,C,B
+8910,DC Korat 01,1081158,วิคเตอร์ ไวท์ 10X16 *A,,PC,Standard,Ready,,DC FLOW THROUGH,N,B,B,B,A
+8910,DC Korat 01,1081166,ชิคาโก้ เกรย์ (D) 16X16 *A,,PC,Standard,Ready,,DC FLOW THROUGH,N,B,C,C,A
+8910,DC Korat 01,1081287,ฟีนิกซ์ แบล็ค ชีพ PN-508-03 2X8*A,,PC,Standard,Ready,,,N,C,C,C,A
+8910,DC Korat 01,1081297,ฟีนิกซ์ แบล็ค ชีพ PN-109-03 1X8*A,,PC,Standard,Ready,,DC FLOW THROUGH,N,C,C,C,A
+8910,DC Korat 01,1081544,ดิโอโร น้ำตาล (DG) 8X16 *A,,PC,Standard,Ready,,DC FLOW THROUGH,N,C,C,C,C
+8910,DC Korat 01,1081241,สเปนนิช ไวท์ ทรัฟเฟิล SP-206-07 2X8*A,,PC,Standard,Ready,,DC FLOW THROUGH,N,A,B,C,C
+8910,DC Korat 01,81081,โบเม 16X16*A,,PC,Standard,Ready,,DC STOCK,N,B,B,B,C
+8910,DC Korat 01,1081292,ฟีนิกซ์ แบล็ค ชีพ PN-206-03 2X8*A,,PC,Standard,Ready,,DC FLOW THROUGH,N,C,C,C,C
+8910,DC Korat 01,1081359,PIETRO GREY (PG6002P) 60X60 *A,,PC,Standard,Ready,,DC STOCK,N,C,C,C,B
+8910,DC Korat 01,1081488,ทรีเซีย น้ำตาล 16X16 A,,PC,Standard,Ready,,DC FLOW THROUGH,N,C,C,B,B
+8910,DC Korat 01,1081063,แกรนิตโต้ SG MAX (ML6060) 60X60 *A,,PC,Standard,Ready,,DC FLOW THROUGH,N,B,A,A,A
+8910,DC Korat 01,1108183,FONDI CREMA(FONDI CREMA)30X60*A,,PC,Standard,Ready,,DC FLOW THROUGH,N,C,C,C,C
+8910,DC Korat 01,1108197,KOHINOOR BEIGE(KOHINOOR BEIGE)30X60*A,,PC,Standard,Ready,,DC FLOW THROUGH,N,B,C,C,C
+8910,DC Korat 01,1081352,JEJU WHITE  (63C00) 30X60 *A,,PC,Standard,Ready,,DC FLOW THROUGH,N,C,C,B,B
+8910,DC Korat 01,1081355,PIETRO MOCCA (PG6001P) 60X60 *A,,PC,Standard,Ready,,DC STOCK,N,C,C,C,B
+8910,DC Korat 01,1081358,RIO CARRARA (HC6003) 60X60 *A,,PC,Standard,Ready,,DC FLOW THROUGH,N,C,C,C,B
+8910,DC Korat 01,1108158,KOHINOOR CREMA HL 30X60 *A,,PC,Standard,Ready,,DC FLOW THROUGH,N,C,C,C,C
+8910,DC Korat 01,1081551,ไวท์เพิร์ล 8X16 *A,,PC,Standard,Ready,,DC STOCK,N,B,C,C,B
+8910,DC Korat 01,1081552,สเปลโล น้ำตาล (DG) 8X16 *A,,PC,Standard,Ready,,DC FLOW THROUGH,N,C,C,C,B
+8910,DC Korat 01,1108154,G-EPIROS NEGRO HL 30X60 *A,,PC,Standard,Ready,,DC FLOW THROUGH,N,C,C,C,C
+8910,DC Korat 01,1108160,KOHINOOR BLANCO 30X60*A,,PC,Standard,Ready,,DC STOCK,N,C,C,C,C
+8910,DC Korat 01,1108155,G-EPIROS GRAFITO HL 30X60 *A,,PC,Standard,Ready,,DC FLOW THROUGH,N,A,C,C,C
+8910,DC Korat 01,1108157,AURANTI BLACK RUSTIC 30X60*A,,PC,Standard,Ready,,DC FLOW THROUGH,N,B,C,C,C
+8910,DC Korat 01,1108152,MATRIX YELLOW(MATRIX YELLOW)30X60* A,,PC,Standard,Ready,,DC FLOW THROUGH,N,C,C,C,C
+8910,DC Korat 01,1108141,AURANTI GREY RUSTIC 30X60*A,,PC,Standard,Ready,,DC FLOW THROUGH,N,A,C,C,C
+8910,DC Korat 01,1108149,MATRIX BLOOD RED 30X60*A,,PC,Standard,Ready,,DC FLOW THROUGH,N,C,C,C,C
+8910,DC Korat 01,1108190,G-EPIROS GRIS HL 30X60 *A,,PC,Standard,Ready,,DC FLOW THROUGH,N,C,C,C,C
+8910,DC Korat 01,1081739,สีทาภายใน DURACLEAN A PLUS MATT#A 1GL,,GLL,Standard,Ready,,,N,C,C,C,B
+8910,DC Korat 01,1081740,สีทาภายใน DURACLEAN A PLUS MATT#B 1GL,,GLL,Standard,Ready,,,N,A,C,C,B
+8910,DC Korat 01,1081741,สีทาภายใน DURACLEAN A PLUS MATT#C 1GL,,GLL,Standard,Ready,,,N,C,C,C,B
+8910,DC Korat 01,1081020,เตาไฟฟ้า รุ่น HB30-2INDFZ/TC,,U12,Standard,Ready,,DC FLOW THROUGH,N,C,C,C,A
+8910,DC Korat 01,1081000,เตาแก๊ส-เตาอบตั้งพื้น60ซม.EKM61301OX,,U12,Standard,Ready,,DC FLOW THROUGH,N,C,C,B,A
+8910,DC Korat 01,1081794,SINK ALTON 1200/500 สแตนเลส,,U05,Standard,Ready,,DC STOCK,N,C,C,C,B
+8910,DC Korat 01,1081796,SINK ALTON 1000/500สแตนเลส,,U05,Standard,Ready,,DC STOCK,N,A,C,C,B
+8910,DC Korat 01,1081308,เตาแก๊ส รุ่น FS60-4B8E สแตนเลส,,U12,Standard,Ready,,DC FLOW THROUGH,N,B,C,B,B
+8910,DC Korat 01,1081795,SINK ATHENS 1000/500 สแตนเลส,,U05,Standard,Ready,,DC STOCK,N,B,B,C,B
+8910,DC Korat 01,1081826,ค.ดูดควัน รุ่น HC-HEE52J-90 สแตนเลส,,U12,Standard,Ready,,DC FLOW THROUGH,N,C,C,B,B
+8910,DC Korat 01,1081195,ซิงค์ 1 หลุมไม่มีที่พัก รุ่น BXX 210-65,,U05,Standard,Ready,,DC FLOW THROUGH,N,A,B,A,C
+8910,DC Korat 01,1108137,SET เครื่องดูดควัน DDX90+GT LUX78 2G,,SET,Standard,Ready,,DC STOCK,N,A,A,A,C
+8910,DC Korat 01,1108146,เตาแก๊สฝัง MEX รุ่น V7835C,,U12,Standard,Ready,,DC FLOW THROUGH,N,C,C,B,C
+8910,DC Korat 01,1108199,เตาแก๊ส 2 หัว 495.06.097,,U12,Standard,Ready,,DC STOCK,N,B,A,B,A
+8910,DC Korat 01,1081008,K-76815X-S-0สุขภัณฑ์ชิ้นเดียว3/4.8 REACH,,SET,Standard,Ready,,DC FLOW THROUGH,N,C,C,C,A
+8910,DC Korat 01,1081010,MZ901#BSกระจกเงามุม10องศา เงิน,,U04,Standard,Ready,,DC FLOW THROUGH,N,C,C,C,A
+8910,DC Korat 01,1081641,CT0063#BL(HM)ราวแขวนผ้าสีดำยาว 65 ซม.,,EA,Standard,Ready,,DC FLOW THROUGH,N,B,C,B,B
+8910,DC Korat 01,1081131,หัวฝักบัว 4 ฟังก์ชั่+ก้าน F40012-CHADY,,SET,Standard,Ready,,DC FLOW THROUGH,N,C,C,C,A
+8910,DC Korat 01,1081138,หัวฝักบัว 5 ฟังก์ชั่น+ก้าน F40011-CHADY,,SET,Standard,Ready,,DC FLOW THROUGH,N,C,C,C,C
+8910,DC Korat 01,1081648,K-25991X-0สุขภัณฑ์2ชิ้น3/4.8REACH+ฝาAUTO,,SET,Standard,Ready,,DC FLOW THROUGH,N,A,C,C,B
+8910,DC Korat 01,1081497,HAP004A-F วาล์วเปิดปิดน้ำ+สายน้ำดี,,EA,Standard,Ready,,DC FLOW THROUGH,N,C,C,C,B
+8910,DC Korat 01,1081644,CT0065#BL(HM)ที่ใส่กระดาษทิชชู่ ดำ,,EA,Standard,Ready,,DC FLOW THROUGH,N,A,C,C,B
+8910,DC Korat 01,1081301,K-45764X-0 ตู้เฟอร์นิเจอร์900MM ALEUTIAN,,SET,Standard,Ready,,,N,C,A,A,B
+8910,DC Korat 01,1081133,F40017-CHADYชุดฝักบัวสายอ่อน รุ่นเรนคลิก,,SET,Standard,Ready,,DC STOCK,N,B,B,A,A
+8910,DC Korat 01,1081134,ราวปรับระดับทรงโค้ง F40014-CHADY,,SET,Standard,Ready,,DC FLOW THROUGH,N,A,C,C,A
+8910,DC Korat 01,1081496,HAP004A วาล์วเปิดปิดน้ำ,,EA,Standard,Ready,,DC STOCK,N,A,C,B,B
+8910,DC Korat 01,1081120,K-45764X-E63ตู้เฟอร์นิเจอรFOREFORNวอลนัท,,SET,Standard,Ready,,,N,C,A,A,A
+8910,DC Korat 01,1081139,A-6044-HSชุดฝักบัวสายอ่อน 5 ระบบ MILANO,,SET,Standard,Ready,,DC STOCK,N,B,B,B,C
+8910,DC Korat 01,1081766,C13441 สุขภัณฑ์สองชิ้น 4.5L.BEN,,SET,Standard,Ready,,DC FLOW THROUGH,N,C,C,C,B
+8910,DC Korat 01,1081576,CT2148A#BL ก๊อกผสมยืนอาบแบบก้านโยก,,SET,Standard,Ready,,DC STOCK,N,C,C,C,B
+8910,DC Korat 01,1081677,26263IK0 สายฉีดชำระ BLISTER PAC ดำ,,SET,Standard,Ready,,DC STOCK,N,B,C,C,B
+8910,DC Korat 01,1081634,CW923U สุขภัณฑ์ชิ้นเดียว 4.8L,,SET,Standard,Ready,,DC FLOW THROUGH,N,C,C,B,B
+8910,DC Korat 01,1081024,SC6657 สุขภัณฑ์สองชิ้น 4.5ลิตร FORALL ขา,,SET,Standard,Ready,,DC FLOW THROUGH,N,C,C,C,A
+8910,DC Korat 01,1081606,ก๊อกเดี่ยวอ่างล้างหน้า WS-1901M สแตนเลส,,SET,Standard,Ready,,DC FLOW THROUGH,N,A,C,C,B
+8910,DC Korat 01,108149,CA 001 ประเก็นแว๊กกันกลิ่น,,EA,Standard,Ready,,DC STOCK,N,B,C,A,B
+8910,DC Korat 01,1081808,CT697Z2PW(HM)ตะแกรงไม่กันกลิ่น 2-3 นิ้ว,,SET,Standard,Ready,,DC STOCK,N,C,C,C,B
+8910,DC Korat 01,1081501,TS404NSK ฟลัชวาล์วโถสุขภัณฑ์ท่อตรง,,SET,Standard,Ready,,DC STOCK,N,B,C,C,B
+8910,DC Korat 01,1081401,SHOWER SET A-6110-978-902+A-0572-310B,,SET,Standard,Ready,,,N,A,C,C,B
+8910,DC Korat 01,1108175,ตะแกรงSTบานดึง16นิ้ว 495.35.071 450มม.,,SET,Standard,Ready,,DC FLOW THROUGH,N,C,C,C,C
+8910,DC Korat 01,1108168,ตะแกรงตู้แคบST 495.35.315 20ซม.,,SET,Standard,Ready,,DC FLOW THROUGH,N,C,C,C,C
+8910,DC Korat 01,1108184,ตะแกรงSTบานเปิด16นิ้ว495.35.077 450มม,,SET,Standard,Ready,,DC FLOW THROUGH,N,C,A,A,A
+8910,DC Korat 01,1108167,ตะแกรงตู้แคบเหล็ก 495.35.312 15ซม.,,SET,Standard,Ready,,DC FLOW THROUGH,N,A,C,C,C
+8910,DC Korat 01,1108195,ตะแกรงเข้ามุมSTบานเปิด 495.35.303 900มม,,SET,Standard,Ready,,DC FLOW THROUGH,N,A,C,C,C
+8910,DC Korat 01,1108173,ตะแกรงเอนกประสงค์ ST 495.35.299 300มม.,,SET,Standard,Ready,,DC FLOW THROUGH,N,C,C,C,C
+8910,DC Korat 01,1108172,ตะแกรงตู้แคบST 495.35.314 15ซม.,,SET,Standard,Ready,,DC FLOW THROUGH,N,C,C,C,C
+8910,DC Korat 01,108112,เต้ารับคู่3ขา+สวิทซ์ควบคุม รุ่น W816UV2S,,EA,Standard,Ready,,DC FLOW THROUGH,N,A,C,C,A
+8910,DC Korat 01,1081219,BL โคมสปอตไลท์แบบแป้น BETA 120W,,EA,Standard,Ready,,DC FLOW THROUGH,N,A,A,A,C

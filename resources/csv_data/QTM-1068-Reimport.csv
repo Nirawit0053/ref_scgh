@@ -1,0 +1,7 @@
+Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,Column9,Column10,Column11,Column12,Column13,Column14,Column15,Column16,Column17,Column18,Column19,Column20,Column21,Column22,Column23,Column24,Column25
+Product master,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+* Can adjust only value column *,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+DC Code,DC Name,RDC Code,RDC Name,FC Store Code,FC Store Name,Article Number,Article Name,Article Vendor Name,Selling Unit,Item Flag,Batch Management,MOQ (QTY),Ordering Lead Time (Day),SCGH Item Status,SCGH DC Item Flag,DC Stock,Show & Stock (By Branch),Product Replacement *,Replacement Start Date *,Replacement End Date *,Product Class,Min Level (QTY),Max Level (QTY),Error Reason
+3000-C1,DC TEST 2,8020011,SCGH Korat test01,8080,SCGH 3K หาดใหญ่,1002939,แบมบู เฟรชลิเนีย 25X40 *A,,PC,Standard,Yes,,,Inactive,,,Y,1002935,1/0test/2022,1/0test/2022,,,,"Replacement Start date or Replacement End date is invalid format. Please input the date in format ""DD/MM/YYYY"""

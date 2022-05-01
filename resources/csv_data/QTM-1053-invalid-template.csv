@@ -1,0 +1,6 @@
+Article Grouping
+
+Group ID,MCH3 Code,MCH3 Name,MCH2 Code,MCH2 Name,MCH1 Code,MCH1 Name,MC Code,MC Name,Tile Size,Sales Price (Min),Sales Price (Max)
+B-23,B,ห้องน้ำ,B1,ก๊อกน้ำ/ฝักบัว,B104,ก๊อกบิเด้,B104-01,ก๊อกบิเด้, ,0.00,5000.00
+B-25,B,ห้องน้ำ,B1,ก๊อกน้ำ/ฝักบัว,B104,ก๊อกบิเด้,B104-01,ก๊อกบิเด้, ,16000.00,999999999.00
+B-24,B,ห้องน้ำ,B1,ก๊อกน้ำ/ฝักบัว,B104,ก๊อกบิเด้,B104-01,ก๊อกบิเด้, ,5000.00,16000.00

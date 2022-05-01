@@ -1,0 +1,41 @@
+﻿Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,Column9,Column10,Column11,Column12,Column13,Column14,Column15,Column16,Column17,Column18,Column19,Column20,Column21
+Product Min Max,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+Article SKU: 1206,,,,,,,,,,,,,,,,,,,,
+Categories: All,,,,,,,,,,,,,,,,,,,,
+Brands: All,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+Product Min Max Level:,DC,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+* Can adjust only value column *,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+DC Code,DC Name,Article Number,Article Name,Article Vendor Name,Selling Unit,Item Flag,Batch Management,MOQ (QTY),Ordering Lead Time (Day),SCGH Item Status,SCGH DC Item Flag,DC Stock,Show & Stock (By Branch),PO Type,Previous Product Class,Product Class,Previous Min Level (QTY),Min Level (QTY) *,Previous Max Level (QTY),Max Level (QTY) *
+8910,DC Korat,1061206,CVN92201 ฝารองนั่งอเนกประสงค์,,SET,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,C,C,1,1,4,4
+8910,DC Korat,112060,กรุยสแตนฯ V-CUT HSC401224 4X120cm.เงิน,,EA,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,B,C,1,1,3,2
+8910,DC Korat,112061,กรุยสแตนฯV-CUT HSC402424 4X240cm.เงินเงา,,EA,Standard,Yes,0,0,Ready,,DC STOCK,N,,A,C,2,2,7,6
+8910,DC Korat,1120643,ไฟผนังLED W 18204 DG/13W,,EA,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,A,C,2,2,4,4
+8910,DC Korat,1120653,ไฟผนัง W 18304 DG,,EA,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,C,B,5,3,20,4
+8910,DC Korat,1120656,ไฟผนังLED W 17102 DG /13W,,EA,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,C,C,,1,,1
+8910,DC Korat,1120668,ไฟสนามLED BL 15403-800 DG/12W,,EA,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,A,C,2,2,2,2
+8910,DC Korat,1120671,ไฟสนามLED BL 13703-800 DG/7W,,EA,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,C,B,5,5,6,6
+8910,DC Korat,1120699,ก๊อกซิงค์เคาน์เตอร์ สแตนเลส K17FCK004S,,SET,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,C,C,1,2,2,2
+8910,DC Korat,1191206,HW เข็มขัดรัดสายไฟ 4 PK(50g.),,PAK,Standard,Yes,0,0,Ready,,,N,,A,C,5,4,6,5
+8910,DC Korat,1206161,อ่างอาบน้ำ RELAX สีขาว ขนาด170X80X60 CM.,,U05,Standard,Yes,,,Ready,,DC FLOW THROUGH,N,,B,A,,0,,
+8910,DC Korat,1206196,มาร์เบิล แซงชัวรี่(SATIN)R/T 60X60 A,,PC,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,A,C,,1,,2
+8910,DC Korat,1206198,มาร์เบิล แซงชัวรี่ (POL) R/T 60X60 A,,PC,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,C,C,,10,,20
+8910,DC Korat,1206267,เตาไฟฟ้า HVN264,,U12,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,C,B,,100,,200
+8910,DC Korat,1206313,ฮาชิเกรย์ 10X16 *A - (EXC.),,PC,Standard,Yes,,,Ready,,DC STOCK,N,,B,C,,1000,,2000
+8910,DC Korat,1206359,โรม (II) (HYG) 10X16*A,,PC,Standard,Yes,0,0,Ready,,DC STOCK,N,,C,A,5229,10000,6735,20000
+8910,DC Korat,1206391,มูก้าพิงค์ 10X16 *A - (EXC.),,PC,Standard,Yes,,,Ready,,DC STOCK,N,,C,C,,100000,,200000
+8910,DC Korat,1206392,มูก้าไวท์ 10X16 *A - (EXC.),,PC,Standard,Yes,,,Ready,,DC STOCK,N,,B,C,174,1000000,233,2000000
+8910,DC Korat,120640,แผ่นกันลื่นยาง PVC BM-1/T11-CL ใส,,EA,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,C,C,1,10000000,3,20000000
+8910,DC Korat,120650,ที่ใส่กระดาษชำระ 8851 โครเมี่ยม,,SET,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,A,C,1,1,3,2
+8910,DC Korat,1206551,พัดลมระบายอากาศฝังฝ้า 10 นิ้ว VC25M1(S),,U12,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,A,A,142,142,183,183
+8910,DC Korat,1206616,ริตา เทา (ION) 10X16 A,,PC,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,C,C,,395,,530
+8910,DC Korat,1206618,ริตา เดคโค เทา (ION) 10X16 A,,PC,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,C,C,,395,,530
+8910,DC Korat,1206623,แล็คโค่ สโนว์ (HYG/P8)(MATT) 12X24*A,,PC,Standard,Yes,0,0,Ready,,DC STOCK,N,,C,C,,22,,29
+8910,DC Korat,120683,น้ำยากันน้ำรั่วซึม WATER BLOC#BLOC 1 GL,,GLL,Standard,Yes,0,0,Ready,,,N,,A,C,4,3,5,4
+8910,DC Korat,120684,น้ำยากันซึม CONCRETE #PLUS 5L,,GLL,Standard,Yes,0,0,Ready,,,N,,A,C,2,4,2,5
+8910,DC Korat,120685,ตัวทำละลาย MORTAPLAS #MORT 5L,,GLL,Standard,Yes,0,0,Ready,,,N,,A,C,7,4,21,10
+8910,DC Korat,1206868,ไลท์ ทราเวอร์ทีน R/T (PK8) 12X24 *A,,PC,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,C,A,8721,8721,11233,11233
+8910,DC Korat,1206890,ประตู DE7018-18 สีเมเปิ้ล จ.,,U04,Standard,Yes,0,0,Ready,,,N,,B,A,,2,,2

@@ -1,0 +1,10 @@
+Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,Column9,Column10,Column11,Column12,Column13,Column14,Column15,Column16,Column17,Column18,Column19
+Category Forecast,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+* Can adjust only value column *,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+Category (MCH2),Category (MCH2) Code,Category (MCH1),Category (MCH1) Code,Brand,Data Display,Jan 2022 Value *,Feb 2022 Value *,Mar 2022 Value *,Apr 2022 Value *,May 2022 Value *,Jun 2022 Value *,Jul 2022 Value *,Aug 2022 Value *,Sep 2022 Value *,Oct 2022 Value *,Nov 2022 Value *,Dec 2022 Value *,Total
+มือจับ/ลูกบิด,D3,มือจับประตู,D301,HAFELE,Forecast,56846.56,42304.88,57165.65,46305.44,61217.68,48485.56,57735.73,60286.68,50074.99,71940.92,57125.8,74864.34,684354.23
+มือจับ/ลูกบิด,D3,มือจับประตู,D301,HAFELE,Actual,3980,0,0,0,0,0,0,0,0,0,0,0,3980
+มือจับ/ลูกบิด,D3,มือจับประตู,D301,HAFELE,Target,172002.63,185362.85,190228.73,197901.68,214316.15,226038.34,242282.38,257436.77,266751.8,283272.24,297273.75,310717.77,2843585.09
+มือจับ/ลูกบิด,D3,มือจับประตู,D301,HAFELE,Adjust *,,,,,,,,,98870,,,,0

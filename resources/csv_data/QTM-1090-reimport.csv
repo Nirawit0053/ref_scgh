@@ -1,0 +1,6 @@
+Channel
+
+* Can adjust only value column *
+
+DC Code *,DC Name *,RDC Code *,RDC Name *,FC Store Code *,FC Store Name *,FC Inventory Target (Value) *,FC Lead Time (Day) *,Error Reasons
+8910,DC Korat 01,,,1000-C2,FC TEST with DC,20000,10,"Inventory Target (Value): Please input numbers with 2 decimal places and the value must be greater or equal to zero, Lead Time (Day): Please input numbers without decimals and the value must be greater or equal to zero"

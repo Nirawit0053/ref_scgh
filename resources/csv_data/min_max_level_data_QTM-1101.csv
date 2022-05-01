@@ -1,0 +1,24 @@
+﻿Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,Column9,Column10,Column11,Column12,Column13,Column14,Column15,Column16,Column17,Column18,Column19,Column20,Column21,Column22,Column23,Column24,Column25
+Product Min Max,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+* Can adjust only value column *,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+DC Code,DC Name,RDC Code,RDC Name,FC Store Code,FC Store Name,Article Number,Article Name,Article Vendor Name,Selling Unit,Item Flag,Batch Management,MOQ (QTY),Ordering Lead Time (Day),SCGH Item Status,SCGH DC Item Flag,DC Stock,Show & Stock (By Branch),PO Type,Previous Product Class,Product Class,Previous Min Level (QTY),Min Level (QTY) *,Previous Max Level (QTY),Max Level (QTY) *
+8910,DC Korat 01,,,8020,SCGH โคราช,1103333,JAYDEN CHERRY  (L122024) 20X120*A,,PC,Standard,Yes,,,Ready,,DC FLOW THROUGH,N,,C,A,,10000,,10000
+8910,DC Korat 01,,,8100,SCGH อุบลฯ-วารินชำราบ,1103333,JAYDEN CHERRY  (L122024) 20X120*A,,PC,Standard,Yes,,,Ready,,DC FLOW THROUGH,N,,A,A,,10000000,,10000000
+8910,DC Korat 01,,,8020,SCGH โคราช,1033336,495.80.052 ห่วงแขวนผ้า โครเมี่ยม,,EA,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,C,B,2,100,0,200
+8910,DC Korat 01,,,8090,SCGH บุรีรัมย์-นางรอง,1033336,495.80.052 ห่วงแขวนผ้า โครเมี่ยม,,EA,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,A,B,2,10000,5,20000
+,,,,8110,SCGH ประจวบ-ร่อนทองชัย,1033336,495.80.052 ห่วงแขวนผ้า โครเมี่ยม,,EA,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,B,B,2,1000,7,2000
+8910,DC Korat 01,,,8020,SCGH โคราช,1033337,495.80.053 ที่ใส่กระดาษชำระ โครเมี่ยม,,EA,Standard,Yes,0,0,Ready,,DC STOCK,N,,C,B,2,10000000,0,20000000
+,,8020013,SCGH RDC โคราช,8030,SCGH ลพบุรี,1033337,495.80.053 ที่ใส่กระดาษชำระ โครเมี่ยม,,EA,Standard,Yes,0,0,Ready,,DC STOCK,N,,A,B,,1,,2
+3000-C1,DC TEST 2,8020011,SCGH Korat test01,8080,SCGH 3K หาดใหญ่,1033337,495.80.053 ที่ใส่กระดาษชำระ โครเมี่ยม,,EA,Standard,Yes,0,0,Ready,,DC STOCK,N,,C,B,,100000,,200000
+8910,DC Korat 01,,,8090,SCGH บุรีรัมย์-นางรอง,1033337,495.80.053 ที่ใส่กระดาษชำระ โครเมี่ยม,,EA,Standard,Yes,0,0,Ready,,DC STOCK,N,,C,B,1,1,3,3
+,,,,8190,SCGH ทรีเค โฮมเบส,1033337,495.80.053 ที่ใส่กระดาษชำระ โครเมี่ยม,,EA,Standard,Yes,0,0,Ready,,DC STOCK,N,,C,B,,1000000,,2000000
+,,,,8110,SCGH ประจวบ-ร่อนทองชัย,1033338,495.80.054 ที่ใส่กระดาษชำระมีฝาปิด,,EA,Standard,Yes,0,0,Ready,,DC STOCK,N,,C,B,2,2,7,8
+8910,DC Korat 01,,,8020,SCGH โคราช,1033335,495.80.051 ขอแขวนผ้าคู่ โครเมี่ยม,,EA,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,A,B,1,10,2,20
+,,,,8110,SCGH ประจวบ-ร่อนทองชัย,1033335,495.80.051 ขอแขวนผ้าคู่ โครเมี่ยม,,EA,Standard,Yes,0,0,Ready,,DC FLOW THROUGH,N,,C,B,4,1,14,2
+3000-C1,DC TEST 2,8020011,SCGH Korat test01,8080,SCGH 3K หาดใหญ่,1173333,HW บล็อกกันน้ำ PVC CT406 LEETECH ฝาใส,8858658301114,EA,Standard,Yes,0,0,Ready,,,N,,C,C,,2,,5
+8910,DC Korat 01,,,8100,SCGH อุบลฯ-วารินชำราบ,1173333,HW บล็อกกันน้ำ PVC CT406 LEETECH ฝาใส,8858658301114,EA,Standard,Yes,0,0,Ready,,,N,,A,C,4,4,30,26
+8910,DC Korat 01,,,8120,SCGH ร้อยเอ็ด,1173333,HW บล็อกกันน้ำ PVC CT406 LEETECH ฝาใส,8858658301114,EA,Standard,Yes,0,0,Ready,,,N,,C,A,1,1,3,3
+,,,,8200,SCGH บุญทวีวัสดุ,1173333,HW บล็อกกันน้ำ PVC CT406 LEETECH ฝาใส,8858658301114,EA,Standard,Yes,0,0,Ready,,,N,,C,C,5,2,16,4
+8910,DC Korat 01,,,8210,SCGH โคราช-หัวทะเล,1173333,HW บล็อกกันน้ำ PVC CT406 LEETECH ฝาใส,8858658301114,EA,Standard,Yes,0,0,Ready,,,N,,A,C,,1,,9

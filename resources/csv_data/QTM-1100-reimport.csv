@@ -1,0 +1,6 @@
+Channel
+
+* Can adjust only value column *
+
+DC Code *,DC Name *,DC Inventory Target (Value) *,DC Lead Time (Day) *,Error Reasons
+8888,DC ADDON-FORTEST,12312,5,"Inventory Target (Value): Please input numbers with 2 decimal places and the value must be greater or equal to zero, Lead Time (Day): Please input numbers without decimals and the value must be greater or equal to zero"

@@ -1,0 +1,6 @@
+Product Class Recommendation
+
+* Can adjust only value column *
+
+DC Code,DC Name,RDC Code,RDC Name,FC Store Code,FC Store Name,Article Number,Article Name,Article Vendor Name,Selling Unit,Item Flag,SCGH Item Status,SCGH DC Item Flag,DC Stock,Show & Stock (By Branch),Product Class (Previous Version),Product Class (QTY),Product Class (Value),Product Class (Recommendation) *,Error Message
+8910,DC Korat 01,,,8120,SCGH ร้อยเอ็ด,1097576,เตาไฟฟ้าฝังอินดักชั่น MEX รุ่น HIM332,,U12,Standard,Ready,,DC FLOW THROUGH,N,B,C,A,A,"Product Class (Recommendation) Please input only A, B, C"
